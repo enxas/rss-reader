@@ -1,0 +1,8 @@
+.my-container {
+  display: grid;
+  grid-template-columns: 300px auto;
+}
+
+.bold {
+  font-weight: bold;
+}

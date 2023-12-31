@@ -1,0 +1,3498 @@
+{
+	"categories": [
+		{
+			"_id": "653e257a34b768ebbdb6da60",
+			"name": "MyFeeds",
+			"parent": null,
+			"__v": 0,
+			"sub_categories": [
+				{
+					"_id": "653e257a34b768ebbdb6da66",
+					"name": "Csharp",
+					"parent": "653e257a34b768ebbdb6da60",
+					"__v": 0,
+					"feeds": [
+						{
+							"_id": "653e257a34b768ebbdb6da8e",
+							"name": "CodingTutorials",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqWQzlUDdllnLmtgfSgYTCA",
+							"category": "653e257a34b768ebbdb6da66",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da8f",
+							"name": "NickProud",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC231HSjku3orEpc60Rfm3nw",
+							"category": "653e257a34b768ebbdb6da66",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da90",
+							"name": "NickChapsas",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrkPsvLGln62OMZRO6K-llg",
+							"category": "653e257a34b768ebbdb6da66",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da91",
+							"name": "IAmTimCorey",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ptWR16ITQyYOglXyQmpzw",
+							"category": "653e257a34b768ebbdb6da66",
+							"__v": 0
+						}
+					],
+					"sub_categories": []
+				},
+				{
+					"_id": "653e257a34b768ebbdb6da65",
+					"name": "Blender",
+					"parent": "653e257a34b768ebbdb6da60",
+					"__v": 0,
+					"feeds": [
+						{
+							"_id": "653e257a34b768ebbdb6da8c",
+							"name": "ThomasPotter",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTKCbPa35Y7bzxot-5tpdTw",
+							"category": "653e257a34b768ebbdb6da65",
+							"__v": 0
+						}
+					],
+					"sub_categories": []
+				},
+				{
+					"_id": "653e257a34b768ebbdb6da64",
+					"name": "Rust",
+					"parent": "653e257a34b768ebbdb6da60",
+					"__v": 0,
+					"feeds": [
+						{
+							"_id": "653e257a34b768ebbdb6da8a",
+							"name": "nyxtom🏕",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC1K4zYU4YsDE-_hcJNDXRtQ",
+							"category": "653e257a34b768ebbdb6da64",
+							"__v": 0
+						}
+					],
+					"sub_categories": []
+				},
+				{
+					"_id": "653e257a34b768ebbdb6da63",
+					"name": "Entertainment",
+					"parent": "653e257a34b768ebbdb6da60",
+					"__v": 0,
+					"feeds": [
+						{
+							"_id": "653e257a34b768ebbdb6da7c",
+							"name": "SyntheticMan",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo8HnWzRvJQTsYNF1Sfhxvw",
+							"category": "653e257a34b768ebbdb6da63",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da7d",
+							"name": "21Kiloton",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNZNCex1Jg12nilfzhSVOJA",
+							"category": "653e257a34b768ebbdb6da63",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da7e",
+							"name": "TheActMan",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7WDD6yHgzdqijHluCi1z-Q",
+							"category": "653e257a34b768ebbdb6da63",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da7f",
+							"name": "MandaloreGaming",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UClOGLGPOqlAiLmOvXW5lKbw",
+							"category": "653e257a34b768ebbdb6da63",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da80",
+							"name": "GmanLives",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKlUrYO3i9MDlL45Ia6j5EA",
+							"category": "653e257a34b768ebbdb6da63",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da81",
+							"name": "Civvie11",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC21uZkfXpT8rPY-gPgMiCwA",
+							"category": "653e257a34b768ebbdb6da63",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da82",
+							"name": "UpperEchelon",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChI0q9a-ZcbZh7dAu_-J-hg",
+							"category": "653e257a34b768ebbdb6da63",
+							"__v": 0
+						}
+					],
+					"sub_categories": []
+				},
+				{
+					"_id": "653e257a34b768ebbdb6da62",
+					"name": "Godot",
+					"parent": "653e257a34b768ebbdb6da60",
+					"__v": 0,
+					"feeds": [
+						{
+							"_id": "653e257a34b768ebbdb6da6c",
+							"name": "Chevifier",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDjKBPa2h9Uunwfw3DTsRCw",
+							"category": "653e257a34b768ebbdb6da62",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da6e",
+							"name": "GameEndeavor",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCLweX1UtQjRjj7rs_0XQ2Eg",
+							"category": "653e257a34b768ebbdb6da62",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da6f",
+							"name": "DevLogLogan",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHM-tby4lkxLdBlf6IolDTA",
+							"category": "653e257a34b768ebbdb6da62",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da70",
+							"name": "Chris'Tutorials",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwdKySs6j48yl1ae8csAurQ",
+							"category": "653e257a34b768ebbdb6da62",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da71",
+							"name": "Saas",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo6QxZKYO-0gc-5c9RgxlVw",
+							"category": "653e257a34b768ebbdb6da62",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da72",
+							"name": "Godotneers",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCevvX0JTIDow7xz4_e3YYIg",
+							"category": "653e257a34b768ebbdb6da62",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da73",
+							"name": "ThinkWithGames",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdoQRvYjWP8_LAmPRRHN6aA",
+							"category": "653e257a34b768ebbdb6da62",
+							"__v": 0
+						},
+						{
+							"_id": "653e257a34b768ebbdb6da6d",
+							"name": "CrigzVsGameDev",
+							"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXGCRf_do2vpMzHYAmURiuA",
+							"category": "653e257a34b768ebbdb6da62",
+							"__v": 0
+						},
+						{
+							"_id": "653e3526845874d573457b6a",
+							"name": "Godot Engine Official",
+							"url": "https://godotengine.org/rss.xml",
+							"category": "653e257a34b768ebbdb6da62",
+							"__v": 0
+						}
+					],
+					"sub_categories": [
+						{
+							"_id": "653e9cd3c4089b20df5d987b",
+							"name": "Godot Sub Folder",
+							"parent": "653e257a34b768ebbdb6da62",
+							"sub_categories": [
+								{
+									"_id": "653e257a34b768ebbdb6da66",
+									"name": "Csharp",
+									"parent": "653e257a34b768ebbdb6da60",
+									"__v": 0,
+									"feeds": [
+										{
+											"_id": "653e257a34b768ebbdb6da8e",
+											"name": "CodingTutorials",
+											"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqWQzlUDdllnLmtgfSgYTCA",
+											"category": "653e257a34b768ebbdb6da66",
+											"__v": 0
+										},
+										{
+											"_id": "653e257a34b768ebbdb6da8f",
+											"name": "NickProud",
+											"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC231HSjku3orEpc60Rfm3nw",
+											"category": "653e257a34b768ebbdb6da66",
+											"__v": 0
+										},
+										{
+											"_id": "653e257a34b768ebbdb6da90",
+											"name": "NickChapsas",
+											"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrkPsvLGln62OMZRO6K-llg",
+											"category": "653e257a34b768ebbdb6da66",
+											"__v": 0
+										},
+										{
+											"_id": "653e257a34b768ebbdb6da91",
+											"name": "IAmTimCorey",
+											"url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ptWR16ITQyYOglXyQmpzw",
+											"category": "653e257a34b768ebbdb6da66",
+											"__v": 0
+										}
+									],
+									"sub_categories": []
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	],
+	"articles": [
+		{
+			"_id": "653e257a34b768ebbdb6da81",
+			"articles": [
+				{
+					"_id": "653e34b3e5e19f5ac04fcf6a",
+					"title": "Geist - Meat Suit Riot",
+					"url": "https://www.youtube.com/watch?v=O__b9ssFPfs",
+					"published": "2023-10-28T13:38:36.000Z",
+					"illustration": "https://i4.ytimg.com/vi/O__b9ssFPfs/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf6d",
+					"title": "NecroVision - Horror of the Trenchbloom",
+					"url": "https://www.youtube.com/watch?v=OTKVFpkKsNw",
+					"published": "2023-10-12T16:18:28.000Z",
+					"illustration": "https://i4.ytimg.com/vi/OTKVFpkKsNw/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf70",
+					"title": "SIGNS OF ARMAGEDDON: BLIND S.T.A.L.K.E.R. #3",
+					"url": "https://www.youtube.com/watch?v=F_8qc07JqgE",
+					"published": "2023-09-22T14:52:14.000Z",
+					"illustration": "https://i3.ytimg.com/vi/F_8qc07JqgE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf73",
+					"title": "TURBO OVERKILL  - Saw of Theseus",
+					"url": "https://www.youtube.com/watch?v=vliO_P_q8Pw",
+					"published": "2023-09-11T14:26:36.000Z",
+					"illustration": "https://i3.ytimg.com/vi/vliO_P_q8Pw/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf76",
+					"title": "Zortch Report",
+					"url": "https://www.youtube.com/watch?v=k7OrfJhf6oM",
+					"published": "2023-08-21T13:26:09.000Z",
+					"illustration": "https://i4.ytimg.com/vi/k7OrfJhf6oM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf79",
+					"title": "Civvie Shills Rise of the Triad: Ludicrous Edition",
+					"url": "https://www.youtube.com/watch?v=j-5wTztCIt8",
+					"published": "2023-08-06T13:07:16.000Z",
+					"illustration": "https://i3.ytimg.com/vi/j-5wTztCIt8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf7c",
+					"title": "BLIND S.T.A.L.K.E.R. #2",
+					"url": "https://www.youtube.com/watch?v=0sSA2fGV_As",
+					"published": "2023-07-28T13:38:10.000Z",
+					"illustration": "https://i1.ytimg.com/vi/0sSA2fGV_As/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf7f",
+					"title": "Soldier of Fortune - Maximum Tactighoul",
+					"url": "https://www.youtube.com/watch?v=yS5gJIvD1Ds",
+					"published": "2023-07-16T15:04:33.000Z",
+					"illustration": "https://i2.ytimg.com/vi/yS5gJIvD1Ds/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf82",
+					"title": "BLIND S.T.A.L.K.E.R. #1",
+					"url": "https://www.youtube.com/watch?v=B713P8VVrC8",
+					"published": "2023-06-28T14:29:33.000Z",
+					"illustration": "https://i3.ytimg.com/vi/B713P8VVrC8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf85",
+					"title": "WARHAMMER 40K: BOLTGUN - AT NU-DOOM'S GATE",
+					"url": "https://www.youtube.com/watch?v=d3Nz8maBmxk",
+					"published": "2023-06-11T13:47:38.000Z",
+					"illustration": "https://i1.ytimg.com/vi/d3Nz8maBmxk/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf88",
+					"title": "Slayers X: Manchild Review Video: Dawn of the X-Slayer",
+					"url": "https://www.youtube.com/watch?v=dBrAcCXoH0Y",
+					"published": "2023-06-04T13:21:40.000Z",
+					"illustration": "https://i1.ytimg.com/vi/dBrAcCXoH0Y/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf8b",
+					"title": "Blake Stone - The Spy Who Fragged Me",
+					"url": "https://www.youtube.com/watch?v=CwWM41jbHwg",
+					"published": "2023-05-21T13:25:17.000Z",
+					"illustration": "https://i4.ytimg.com/vi/CwWM41jbHwg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf8e",
+					"title": "Petty Thief: The Metal Age FINALE",
+					"url": "https://www.youtube.com/watch?v=NGJSII6-Pm4",
+					"published": "2023-05-07T13:17:58.000Z",
+					"illustration": "https://i3.ytimg.com/vi/NGJSII6-Pm4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf91",
+					"title": "THE END",
+					"url": "https://www.youtube.com/watch?v=4Euf7kYAoZ8",
+					"published": "2023-04-30T11:52:05.000Z",
+					"illustration": "https://i1.ytimg.com/vi/4Euf7kYAoZ8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf94",
+					"title": "This level is ACTUALLY PRETTY GOOD!",
+					"url": "https://www.youtube.com/watch?v=IntRfuMkxUk",
+					"published": "2023-04-29T11:51:07.000Z",
+					"illustration": "https://i2.ytimg.com/vi/IntRfuMkxUk/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da81",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da8a",
+			"articles": [
+				{
+					"_id": "653e34b3e5e19f5ac04fcfc4",
+					"title": "Rust Programming Exercises: Markdown Blog with Tide",
+					"url": "https://www.youtube.com/watch?v=BcR6TnkKubQ",
+					"published": "2022-07-01T18:39:45.000Z",
+					"illustration": "https://i3.ytimg.com/vi/BcR6TnkKubQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfc7",
+					"title": "Async I/O in Depth: Futures and Implementing an Async Runtime",
+					"url": "https://www.youtube.com/watch?v=yfcJGEISsLc",
+					"published": "2022-06-22T00:37:50.000Z",
+					"illustration": "https://i2.ytimg.com/vi/yfcJGEISsLc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfca",
+					"title": "Async I/O in Depth: State Machines, Event Loops and Non-Blocking I/O System Calls",
+					"url": "https://www.youtube.com/watch?v=_3LpJ6I-tzc",
+					"published": "2022-06-12T02:16:15.000Z",
+					"illustration": "https://i4.ytimg.com/vi/_3LpJ6I-tzc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfcd",
+					"title": "Programming in Rust: Enums, Tagged Unions, Memory Layout and Pattern Matching",
+					"url": "https://www.youtube.com/watch?v=QHjSJC6yrs8",
+					"published": "2022-06-07T20:13:09.000Z",
+					"illustration": "https://i2.ytimg.com/vi/QHjSJC6yrs8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfd0",
+					"title": "Programming in Rust: If Statements, While Loops, Conditions, and Boolean Logic",
+					"url": "https://www.youtube.com/watch?v=WA5EQ4cKXrU",
+					"published": "2022-06-06T23:36:44.000Z",
+					"illustration": "https://i4.ytimg.com/vi/WA5EQ4cKXrU/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfd3",
+					"title": "Programming in Rust: Functions and Let Statements",
+					"url": "https://www.youtube.com/watch?v=mb8zVjvu1vg",
+					"published": "2022-06-06T16:57:14.000Z",
+					"illustration": "https://i2.ytimg.com/vi/mb8zVjvu1vg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfd6",
+					"title": "Programming in Rust: Basic Types and Primitives",
+					"url": "https://www.youtube.com/watch?v=IRdjelkz4Ow",
+					"published": "2022-06-06T15:05:01.000Z",
+					"illustration": "https://i2.ytimg.com/vi/IRdjelkz4Ow/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfd9",
+					"title": "Getting Started with Rust",
+					"url": "https://www.youtube.com/watch?v=ZzRAdD38cRI",
+					"published": "2022-06-06T00:00:27.000Z",
+					"illustration": "https://i3.ytimg.com/vi/ZzRAdD38cRI/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfdc",
+					"title": "Async I/O in Depth: Thread Pools, Radix Trees, Channels and More - High Performance HTTP Web Servers",
+					"url": "https://www.youtube.com/watch?v=fdxhcDne2Ww",
+					"published": "2022-06-02T17:37:47.000Z",
+					"illustration": "https://i3.ytimg.com/vi/fdxhcDne2Ww/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfdf",
+					"title": "Async I/O in Depth: HTTP Web Server",
+					"url": "https://www.youtube.com/watch?v=a6wsWpVUdb4",
+					"published": "2022-05-29T05:01:36.000Z",
+					"illustration": "https://i2.ytimg.com/vi/a6wsWpVUdb4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfe2",
+					"title": "Async I/O in Depth: Iterative TCP Echo Server",
+					"url": "https://www.youtube.com/watch?v=bWdbKN9F18U",
+					"published": "2022-05-27T16:49:08.000Z",
+					"illustration": "https://i3.ytimg.com/vi/bWdbKN9F18U/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfe5",
+					"title": "Rust Programming Exercises: Strings Search and Replace",
+					"url": "https://www.youtube.com/watch?v=Ie4x2kM3LqE",
+					"published": "2022-05-23T14:48:37.000Z",
+					"illustration": "https://i2.ytimg.com/vi/Ie4x2kM3LqE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfe8",
+					"title": "Rust Programming Exercises: Bloom Filters and Bit Vectors",
+					"url": "https://www.youtube.com/watch?v=uoITg1iUj7A",
+					"published": "2022-05-20T01:12:19.000Z",
+					"illustration": "https://i2.ytimg.com/vi/uoITg1iUj7A/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfeb",
+					"title": "2D Pixel Framebuffers, Event Loops and Syscalls (in Rust)",
+					"url": "https://www.youtube.com/watch?v=jhhco5E5Yq4",
+					"published": "2022-05-19T17:34:32.000Z",
+					"illustration": "https://i3.ytimg.com/vi/jhhco5E5Yq4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfee",
+					"title": "Rust Programming Exercises: Autocomplete with Tries",
+					"url": "https://www.youtube.com/watch?v=wDnI8liqD-o",
+					"published": "2022-05-17T15:32:38.000Z",
+					"illustration": "https://i4.ytimg.com/vi/wDnI8liqD-o/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8a",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e3526845874d573457b6a",
+			"articles": [
+				{
+					"_id": "653e3c8c2dac6fbbb8353141",
+					"title": "Release candidate: Godot 4.1.3 RC 1",
+					"url": "https://godotengine.org/article/release-candidate-godot-4-1-3-rc-1/",
+					"published": "2023-10-27T15:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/release-candidate-godot-4-1-3-rc-1.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353144",
+					"title": "Dev snapshot: Godot 4.2 beta 3",
+					"url": "https://godotengine.org/article/dev-snapshot-godot-4-2-beta-3/",
+					"published": "2023-10-24T15:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/dev-snapshot-godot-4-2-beta-3.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353147",
+					"title": "State of particles and future updates",
+					"url": "https://godotengine.org/article/progress-report-state-of-particles/",
+					"published": "2023-10-23T13:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/progress-report-state-of-particles.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb835314a",
+					"title": "Dev snapshot: Godot 4.2 beta 2",
+					"url": "https://godotengine.org/article/dev-snapshot-godot-4-2-beta-2/",
+					"published": "2023-10-19T13:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/dev-snapshot-godot-4-2-beta-2.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb835314d",
+					"title": "Dev snapshot: Godot 4.2 beta 1",
+					"url": "https://godotengine.org/article/dev-snapshot-godot-4-2-beta-1/",
+					"published": "2023-10-12T14:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/dev-snapshot-godot-4-2-beta-1.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353150",
+					"title": "Maintenance release: Godot 4.1.2",
+					"url": "https://godotengine.org/article/maintenance-release-godot-4-1-2/",
+					"published": "2023-10-04T11:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/maintenance-release-godot-4-1-2.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353153",
+					"title": "Dev snapshot: Godot 4.2 dev 6",
+					"url": "https://godotengine.org/article/dev-snapshot-godot-4-2-dev-6/",
+					"published": "2023-10-03T22:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/dev-snapshot-godot-4-2-dev-6.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353156",
+					"title": "Maintenance release: Godot 3.5.3",
+					"url": "https://godotengine.org/article/maintenance-release-godot-3-5-3/",
+					"published": "2023-09-25T14:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/maintenance-release-godot-3-5-3.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353159",
+					"title": "Release candidate: Godot 4.1.2 RC 1",
+					"url": "https://godotengine.org/article/release-candidate-godot-4-1-2-rc-1/",
+					"published": "2023-09-22T14:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/release-candidate-godot-4-1-2-rc-1.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb835315c",
+					"title": "Dev snapshot: Godot 4.2 dev 5",
+					"url": "https://godotengine.org/article/dev-snapshot-godot-4-2-dev-5/",
+					"published": "2023-09-19T10:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/dev-snapshot-godot-4-2-dev-5.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb835315f",
+					"title": "Introducing the new Godot Development Fund",
+					"url": "https://godotengine.org/article/godot-developer-fund/",
+					"published": "2023-09-12T11:51:10.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/developer-fund.jpg",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353162",
+					"title": "Godot XR update - September 2023",
+					"url": "https://godotengine.org/article/godot-xr-update-sep-2023/",
+					"published": "2023-09-11T11:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/godot-xr-update-sep-2023.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353165",
+					"title": "Release candidate: Godot 3.5.3 RC 1",
+					"url": "https://godotengine.org/article/release-candidate-godot-3-5-3-rc-1/",
+					"published": "2023-09-08T11:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/release-candidate-godot-3-5-3-rc-1.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353168",
+					"title": "Dev snapshot: Godot 4.2 dev 4",
+					"url": "https://godotengine.org/article/dev-snapshot-godot-4-2-dev-4/",
+					"published": "2023-09-05T16:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/dev-snapshot-godot-4-2-dev-4.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb835316b",
+					"title": "Godot Showcase - Usagi Shima",
+					"url": "https://godotengine.org/article/godot-showcase-usagi-shima/",
+					"published": "2023-09-01T15:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/usagi-shima.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb835316e",
+					"title": "gamescom, here we go!",
+					"url": "https://godotengine.org/article/godot-at-gamescom-2023/",
+					"published": "2023-08-17T15:57:35.000Z",
+					"illustration": "https://godotengine.org/storage/blog/gamescom/2023/gamescom-cover.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353171",
+					"title": "Dev snapshot: Godot 3.6 beta 3",
+					"url": "https://godotengine.org/article/dev-snapshot-godot-3-6-beta-3/",
+					"published": "2023-08-16T16:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/dev-snapshot-godot-3-6-beta-3.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353174",
+					"title": "Dev snapshot: Godot 4.2 dev 3",
+					"url": "https://godotengine.org/article/dev-snapshot-godot-4-2-dev-3/",
+					"published": "2023-08-11T14:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/dev-snapshot-godot-4-2-dev-3.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353177",
+					"title": "Godot Conference 2023: Call for Participations",
+					"url": "https://godotengine.org/article/godotcon-2023-call-participation/",
+					"published": "2023-08-10T17:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/godotcon-2023-we-need-you.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb835317a",
+					"title": "Godot Rendering Priorities: July 2023",
+					"url": "https://godotengine.org/article/rendering-priorities-july-2023/",
+					"published": "2023-08-09T20:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/rendering-priorities-july-2023.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb835317d",
+					"title": "Maintenance release: Godot 4.0.4",
+					"url": "https://godotengine.org/article/maintenance-release-godot-4-0-4/",
+					"published": "2023-08-03T13:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/maintenance-release-godot-4-0-4.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353180",
+					"title": "Dev snapshot: Godot 4.2 dev 2",
+					"url": "https://godotengine.org/article/dev-snapshot-godot-4-2-dev-2/",
+					"published": "2023-07-28T13:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/dev-snapshot-godot-4-2-dev-2.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353183",
+					"title": "Release candidate: Godot 4.0.4 RC 1",
+					"url": "https://godotengine.org/article/release-candidate-godot-4-0-4-rc-1/",
+					"published": "2023-07-21T16:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/release-candidate-godot-4-0-4-rc-1.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				},
+				{
+					"_id": "653e3c8d2dac6fbbb8353186",
+					"title": "Dev snapshot: Godot 4.2 dev 1",
+					"url": "https://godotengine.org/article/dev-snapshot-godot-4-2-dev-1/",
+					"published": "2023-07-19T15:00:00.000Z",
+					"illustration": "https://godotengine.org/storage/blog/covers/dev-snapshot-godot-4-2-dev-1.webp",
+					"is_read": false,
+					"feed_id": "653e3526845874d573457b6a",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da8e",
+			"articles": [
+				{
+					"_id": "653e34b4e5e19f5ac04fd04b",
+					"title": "ASP.NET Minimal API and Swagger",
+					"url": "https://www.youtube.com/watch?v=UuLiC8vsxgw",
+					"published": "2023-10-27T08:13:53.000Z",
+					"illustration": "https://i2.ytimg.com/vi/UuLiC8vsxgw/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd04e",
+					"title": "ASP.NET Minimal API Structure",
+					"url": "https://www.youtube.com/watch?v=w5o32Qpgbb8",
+					"published": "2023-10-13T07:48:25.000Z",
+					"illustration": "https://i4.ytimg.com/vi/w5o32Qpgbb8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd051",
+					"title": "ASP.NET Minimal API Performance",
+					"url": "https://www.youtube.com/watch?v=XUVgE8oFOms",
+					"published": "2023-09-29T07:22:49.000Z",
+					"illustration": "https://i1.ytimg.com/vi/XUVgE8oFOms/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd054",
+					"title": "Blazor and JWT Refresh Tokens",
+					"url": "https://www.youtube.com/watch?v=0iJqh2lzEXo",
+					"published": "2023-09-15T07:31:34.000Z",
+					"illustration": "https://i1.ytimg.com/vi/0iJqh2lzEXo/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd057",
+					"title": "ASP.NET and JWT Refresh Tokens",
+					"url": "https://www.youtube.com/watch?v=xfXX9Gu_cpE",
+					"published": "2023-09-01T08:01:30.000Z",
+					"illustration": "https://i1.ytimg.com/vi/xfXX9Gu_cpE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd05a",
+					"title": "React and JWT",
+					"url": "https://www.youtube.com/watch?v=IR7f9tzDWns",
+					"published": "2023-08-18T07:57:31.000Z",
+					"illustration": "https://i2.ytimg.com/vi/IR7f9tzDWns/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd05d",
+					"title": "Blazor Authentication with JSON Web Tokens",
+					"url": "https://www.youtube.com/watch?v=GTXvMu6Ex-o",
+					"published": "2023-08-04T08:20:57.000Z",
+					"illustration": "https://i4.ytimg.com/vi/GTXvMu6Ex-o/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd060",
+					"title": "Angular Logout",
+					"url": "https://www.youtube.com/watch?v=Bsejs502_cc",
+					"published": "2023-07-21T08:02:10.000Z",
+					"illustration": "https://i3.ytimg.com/vi/Bsejs502_cc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd063",
+					"title": "Angular HTTP Interceptors",
+					"url": "https://www.youtube.com/watch?v=U2jC4JGdD8c",
+					"published": "2023-07-07T08:02:08.000Z",
+					"illustration": "https://i2.ytimg.com/vi/U2jC4JGdD8c/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd066",
+					"title": "Authentication Part 2 - Passing JSON Web Tokens",
+					"url": "https://www.youtube.com/watch?v=l8yepSs_Pk8",
+					"published": "2023-06-30T08:01:44.000Z",
+					"illustration": "https://i1.ytimg.com/vi/l8yepSs_Pk8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd069",
+					"title": "Authentication Part 1 - Individual User Accounts",
+					"url": "https://www.youtube.com/watch?v=ZubGYVHTI3Q",
+					"published": "2023-06-23T07:54:13.000Z",
+					"illustration": "https://i3.ytimg.com/vi/ZubGYVHTI3Q/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd06c",
+					"title": "More Swagger",
+					"url": "https://www.youtube.com/watch?v=VHPEg7ktl1E",
+					"published": "2023-05-05T08:02:12.000Z",
+					"illustration": "https://i3.ytimg.com/vi/VHPEg7ktl1E/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd06f",
+					"title": "Swagger Versioning",
+					"url": "https://www.youtube.com/watch?v=Zd6-ilQTNn8",
+					"published": "2023-04-21T10:21:08.000Z",
+					"illustration": "https://i3.ytimg.com/vi/Zd6-ilQTNn8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd072",
+					"title": "WebAPI Versioning",
+					"url": "https://www.youtube.com/watch?v=4d9IbyUD3U8",
+					"published": "2023-04-14T12:06:09.000Z",
+					"illustration": "https://i1.ytimg.com/vi/4d9IbyUD3U8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd075",
+					"title": "ASP.NET Integration Testing",
+					"url": "https://www.youtube.com/watch?v=Hmp2ctGacIo",
+					"published": "2023-03-31T08:18:47.000Z",
+					"illustration": "https://i1.ytimg.com/vi/Hmp2ctGacIo/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8e",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da71",
+			"articles": [
+				{
+					"_id": "653e34b2e5e19f5ac04fce3e",
+					"title": "🧭 EASY NAVIGATION in GODOT 4!",
+					"url": "https://www.youtube.com/watch?v=vge6y4BpuXU",
+					"published": "2023-09-14T16:00:43.000Z",
+					"illustration": "https://i3.ytimg.com/vi/vge6y4BpuXU/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da71",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce41",
+					"title": "✨ How to CODE CLEANER in GODOT 4",
+					"url": "https://www.youtube.com/watch?v=6QGCbGEvqyE",
+					"published": "2023-08-28T16:30:01.000Z",
+					"illustration": "https://i3.ytimg.com/vi/6QGCbGEvqyE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da71",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce44",
+					"title": "COLORED COLLISION SHAPES in GODOT 4",
+					"url": "https://www.youtube.com/watch?v=_r0JHScRdzs",
+					"published": "2023-07-27T21:35:33.000Z",
+					"illustration": "https://i4.ytimg.com/vi/_r0JHScRdzs/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da71",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce47",
+					"title": "How to install and use JOLT PHYSICS in GODOT",
+					"url": "https://www.youtube.com/watch?v=SaW1MQbsB4U",
+					"published": "2023-07-18T19:34:36.000Z",
+					"illustration": "https://i4.ytimg.com/vi/SaW1MQbsB4U/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da71",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce4a",
+					"title": "I ranked every keyword in GDScript!",
+					"url": "https://www.youtube.com/watch?v=2VZNJuc47Eo",
+					"published": "2023-06-17T11:24:55.000Z",
+					"illustration": "https://i3.ytimg.com/vi/2VZNJuc47Eo/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da71",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce4d",
+					"title": "Create realistic ✨ LENSFLARES ✨ in GODOT",
+					"url": "https://www.youtube.com/watch?v=EzvgzsgDJx0",
+					"published": "2023-02-06T19:07:22.000Z",
+					"illustration": "https://i2.ytimg.com/vi/EzvgzsgDJx0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da71",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da6c",
+			"articles": [
+				{
+					"_id": "653e34b1e5e19f5ac04fcd9f",
+					"title": "Godot Animated Texture Rect Tutorial",
+					"url": "https://www.youtube.com/watch?v=ahzcA4FO-Jw",
+					"published": "2023-10-23T21:27:15.000Z",
+					"illustration": "https://i2.ytimg.com/vi/ahzcA4FO-Jw/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcda2",
+					"title": "Godot Physics vs Jolt Physics Uncut",
+					"url": "https://www.youtube.com/watch?v=B3fEdhKw8mg",
+					"published": "2023-10-15T18:27:33.000Z",
+					"illustration": "https://i3.ytimg.com/vi/B3fEdhKw8mg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcda5",
+					"title": "Godot QuestManager 0 6 0 Released",
+					"url": "https://www.youtube.com/watch?v=a0z-1cVcREE",
+					"published": "2023-10-13T14:30:00.000Z",
+					"illustration": "https://i2.ytimg.com/vi/a0z-1cVcREE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcda8",
+					"title": "Godot Tutorial | Blender to Godot Animations Tips and Tricks",
+					"url": "https://www.youtube.com/watch?v=hM0AzP74ClI",
+					"published": "2023-10-08T20:32:08.000Z",
+					"illustration": "https://i1.ytimg.com/vi/hM0AzP74ClI/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdab",
+					"title": "Godot QuestManager Development Update",
+					"url": "https://www.youtube.com/watch?v=8G9lTTCrDBw",
+					"published": "2023-10-01T17:20:30.000Z",
+					"illustration": "https://i1.ytimg.com/vi/8G9lTTCrDBw/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdae",
+					"title": "Saving Data in Godot | Godot CSharp 3D Platformer Series Part 10",
+					"url": "https://www.youtube.com/watch?v=oQky-mR_LV4",
+					"published": "2023-09-28T14:46:26.000Z",
+					"illustration": "https://i4.ytimg.com/vi/oQky-mR_LV4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdb1",
+					"title": "Audio | Godot CSharp 3D Platformer Series Part 9",
+					"url": "https://www.youtube.com/watch?v=8Bs2dGOGJrY",
+					"published": "2023-09-27T14:30:05.000Z",
+					"illustration": "https://i1.ytimg.com/vi/8Bs2dGOGJrY/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdb4",
+					"title": "Switching Level Scenes in Godot | Godot CSharp 3D Platformer Series Part 8",
+					"url": "https://www.youtube.com/watch?v=6KNZCE_apNc",
+					"published": "2023-09-26T14:30:02.000Z",
+					"illustration": "https://i3.ytimg.com/vi/6KNZCE_apNc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdb7",
+					"title": "Coin UI and Custom Signals in Godot  | Godot CSharp 3D Platformer Series Part 7",
+					"url": "https://www.youtube.com/watch?v=CYUkhzXUwyw",
+					"published": "2023-09-25T14:30:06.000Z",
+					"illustration": "https://i4.ytimg.com/vi/CYUkhzXUwyw/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdba",
+					"title": "Coins and Particles | Godot CSharp 3D Platformer Series Part 6",
+					"url": "https://www.youtube.com/watch?v=PToQt1H72g4",
+					"published": "2023-09-24T14:00:15.000Z",
+					"illustration": "https://i1.ytimg.com/vi/PToQt1H72g4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdbd",
+					"title": "Tweens and Interaction in Godot | Godot CSharp 3D Platformer Series Part 5",
+					"url": "https://www.youtube.com/watch?v=pkWPb7wLC1Y",
+					"published": "2023-09-23T14:00:42.000Z",
+					"illustration": "https://i1.ytimg.com/vi/pkWPb7wLC1Y/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdc0",
+					"title": "Creating Enemies | Godot CSharp 3D Platformer Series Part 4",
+					"url": "https://www.youtube.com/watch?v=BnlM6682NA0",
+					"published": "2023-09-22T14:00:07.000Z",
+					"illustration": "https://i3.ytimg.com/vi/BnlM6682NA0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdc3",
+					"title": "Node Referencing, Animation and Rotation | Godot C# 3D Platformer Series Part 3",
+					"url": "https://www.youtube.com/watch?v=zxXRWoj3scQ",
+					"published": "2023-09-21T15:00:50.000Z",
+					"illustration": "https://i3.ytimg.com/vi/zxXRWoj3scQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdc6",
+					"title": "Creating Character Controller in Godot | Godot CSharp 3D Platformer Series Part 2",
+					"url": "https://www.youtube.com/watch?v=sXvvZyLbvdA",
+					"published": "2023-09-20T15:30:12.000Z",
+					"illustration": "https://i4.ytimg.com/vi/sXvvZyLbvdA/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdc9",
+					"title": "Godot CSharp 3D Platformer Series Part 1: Setup &amp; Interface",
+					"url": "https://www.youtube.com/watch?v=_5Q-L2yTgeI",
+					"published": "2023-09-19T15:33:34.000Z",
+					"illustration": "https://i4.ytimg.com/vi/_5Q-L2yTgeI/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6c",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da90",
+			"articles": [
+				{
+					"_id": "653e34b4e5e19f5ac04fd0a5",
+					"title": ".NET 8 &amp; C# 12 Release In a Nutshell",
+					"url": "https://www.youtube.com/watch?v=P3-7Fc48AlQ",
+					"published": "2023-10-26T12:56:15.000Z",
+					"illustration": "https://i1.ytimg.com/vi/P3-7Fc48AlQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0a8",
+					"title": "&quot;Stop Using Structured Logging in .NET!&quot; | Code Cop #006",
+					"url": "https://www.youtube.com/watch?v=XV7N21Dwa-U",
+					"published": "2023-10-26T11:30:24.000Z",
+					"illustration": "https://i1.ytimg.com/vi/XV7N21Dwa-U/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0ab",
+					"title": "&quot;Stop Using if else if else In Your Code!&quot; | Code Cop #005",
+					"url": "https://www.youtube.com/watch?v=kZwIaEAdF0I",
+					"published": "2023-10-23T11:30:18.000Z",
+					"illustration": "https://i4.ytimg.com/vi/kZwIaEAdF0I/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0ae",
+					"title": "Enums in .NET 8 Are FAST, but Mine Are Faster!",
+					"url": "https://www.youtube.com/watch?v=UBY4Y6AykdM",
+					"published": "2023-10-20T11:30:10.000Z",
+					"illustration": "https://i2.ytimg.com/vi/UBY4Y6AykdM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0b1",
+					"title": "&quot;Remove Braces From Your Code Now!&quot; | Code Cop #004",
+					"url": "https://www.youtube.com/watch?v=4h8mKzptMzQ",
+					"published": "2023-10-18T11:30:01.000Z",
+					"illustration": "https://i1.ytimg.com/vi/4h8mKzptMzQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0b4",
+					"title": "The Fastest Way to Run Your Tests in .NET",
+					"url": "https://www.youtube.com/watch?v=cSwLokwEZdc",
+					"published": "2023-10-16T11:30:14.000Z",
+					"illustration": "https://i4.ytimg.com/vi/cSwLokwEZdc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0b7",
+					"title": "The Testing Technique Everyone Should Use in .NET",
+					"url": "https://www.youtube.com/watch?v=dasbRVz5MXo",
+					"published": "2023-10-12T11:30:28.000Z",
+					"illustration": "https://i1.ytimg.com/vi/dasbRVz5MXo/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0ba",
+					"title": "&quot;Don't Use Fields in C#! Use Properties Instead&quot; | Code Cop #003",
+					"url": "https://www.youtube.com/watch?v=QdfAOVk77v0",
+					"published": "2023-10-09T11:30:19.000Z",
+					"illustration": "https://i2.ytimg.com/vi/QdfAOVk77v0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0bd",
+					"title": "The Common Entity Framework Mistake You MUST Fix",
+					"url": "https://www.youtube.com/watch?v=K1-n2EoPxiY",
+					"published": "2023-10-05T11:30:08.000Z",
+					"illustration": "https://i4.ytimg.com/vi/K1-n2EoPxiY/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0c0",
+					"title": "Why Do Older .NET Developers Hate Modern .NET?",
+					"url": "https://www.youtube.com/watch?v=FHZck13LB0s",
+					"published": "2023-10-02T11:30:09.000Z",
+					"illustration": "https://i3.ytimg.com/vi/FHZck13LB0s/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0c3",
+					"title": "Ranking C# Versions",
+					"url": "https://www.youtube.com/watch?v=ccs3ARj8PHE",
+					"published": "2023-09-30T20:39:49.000Z",
+					"illustration": "https://i4.ytimg.com/vi/ccs3ARj8PHE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0c6",
+					"title": "How C# 12 Changes Your .NET Classes Forever",
+					"url": "https://www.youtube.com/watch?v=93PHtu0B47s",
+					"published": "2023-09-29T13:00:13.000Z",
+					"illustration": "https://i2.ytimg.com/vi/93PHtu0B47s/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0c9",
+					"title": "&quot;One Line of Code Means Clean Code!&quot; - Code Cop #002",
+					"url": "https://www.youtube.com/watch?v=ZCwMIUsZEGM",
+					"published": "2023-09-27T11:00:34.000Z",
+					"illustration": "https://i3.ytimg.com/vi/ZCwMIUsZEGM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0cc",
+					"title": "The Best Feature That Is Not Coming to .NET Anymore",
+					"url": "https://www.youtube.com/watch?v=8bZe59u52M8",
+					"published": "2023-09-25T11:30:06.000Z",
+					"illustration": "https://i1.ytimg.com/vi/8bZe59u52M8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0cf",
+					"title": "The New Way of Calling Your Code in .NET 8 Is INSANE",
+					"url": "https://www.youtube.com/watch?v=WqeSRUXJ9VM",
+					"published": "2023-09-21T11:30:14.000Z",
+					"illustration": "https://i4.ytimg.com/vi/WqeSRUXJ9VM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da90",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da91",
+			"articles": [
+				{
+					"_id": "653e34b4e5e19f5ac04fd0d2",
+					"title": "How Do I Estimate Tasks Correctly? How Do I Estimate Time Accurately?",
+					"url": "https://www.youtube.com/watch?v=zPAC1CFdW9s",
+					"published": "2023-10-26T12:00:57.000Z",
+					"illustration": "https://i3.ytimg.com/vi/zPAC1CFdW9s/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0d5",
+					"title": "The Dictionary Data Structure in C# in 10 Minutes or Less",
+					"url": "https://www.youtube.com/watch?v=R94JHIXdTk0",
+					"published": "2023-10-23T12:00:22.000Z",
+					"illustration": "https://i3.ytimg.com/vi/R94JHIXdTk0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0d8",
+					"title": "How Do You Avoid Feeling Overwhelmed? What If You Are In Over Your Head?",
+					"url": "https://www.youtube.com/watch?v=7GWSF7Nsl9I",
+					"published": "2023-10-19T12:00:06.000Z",
+					"illustration": "https://i4.ytimg.com/vi/7GWSF7Nsl9I/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0db",
+					"title": "Is Global Demand for Developers Declining?",
+					"url": "https://www.youtube.com/watch?v=jJtx9S3YZKQ",
+					"published": "2023-10-12T12:00:41.000Z",
+					"illustration": "https://i3.ytimg.com/vi/jJtx9S3YZKQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0de",
+					"title": "How to Fix the Inconsistent Accessibility Error in C#",
+					"url": "https://www.youtube.com/watch?v=FBKMlasAZ9I",
+					"published": "2023-10-09T12:00:10.000Z",
+					"illustration": "https://i3.ytimg.com/vi/FBKMlasAZ9I/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0e1",
+					"title": "How Much Do I Lose When I Change Languages?",
+					"url": "https://www.youtube.com/watch?v=v_I4G1reW-4",
+					"published": "2023-10-05T12:00:48.000Z",
+					"illustration": "https://i3.ytimg.com/vi/v_I4G1reW-4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0e4",
+					"title": "Resolution to the Unity Crisis",
+					"url": "https://www.youtube.com/watch?v=omdIJi8_xp4",
+					"published": "2023-10-02T12:00:45.000Z",
+					"illustration": "https://i4.ytimg.com/vi/omdIJi8_xp4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0e7",
+					"title": "How Can I Succeed In A Crisis?",
+					"url": "https://www.youtube.com/watch?v=TdknqbhpCkw",
+					"published": "2023-09-28T12:00:32.000Z",
+					"illustration": "https://i1.ytimg.com/vi/TdknqbhpCkw/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0ea",
+					"title": "What is the Future of Software Development?",
+					"url": "https://www.youtube.com/watch?v=y_N34EakNl0",
+					"published": "2023-09-21T14:05:30.000Z",
+					"illustration": "https://i2.ytimg.com/vi/y_N34EakNl0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0ed",
+					"title": "Unity Meltdown - What Happened and What Now",
+					"url": "https://www.youtube.com/watch?v=Aa5Ofw0Pzh4",
+					"published": "2023-09-18T12:00:15.000Z",
+					"illustration": "https://i2.ytimg.com/vi/Aa5Ofw0Pzh4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0f0",
+					"title": "Solution: Full Stack Development Challenge in C#",
+					"url": "https://www.youtube.com/watch?v=XuugKbEiFDg",
+					"published": "2023-09-15T12:00:26.000Z",
+					"illustration": "https://i1.ytimg.com/vi/XuugKbEiFDg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0f3",
+					"title": "How Do I Become a Consultant with Kevin Griffin",
+					"url": "https://www.youtube.com/watch?v=bSyLseW6s7I",
+					"published": "2023-09-14T18:49:11.000Z",
+					"illustration": "https://i3.ytimg.com/vi/bSyLseW6s7I/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0f6",
+					"title": "VS for Mac is Retiring - What About Visual Studio / MAUI?",
+					"url": "https://www.youtube.com/watch?v=M7V9ZzxPtVc",
+					"published": "2023-09-13T12:00:22.000Z",
+					"illustration": "https://i2.ytimg.com/vi/M7V9ZzxPtVc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0f9",
+					"title": "Full Stack Development Challenge in C#",
+					"url": "https://www.youtube.com/watch?v=_WLgwj0r5wg",
+					"published": "2023-09-12T12:00:21.000Z",
+					"illustration": "https://i4.ytimg.com/vi/_WLgwj0r5wg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0fc",
+					"title": "How Do I Become a Full Stack Developer in C#",
+					"url": "https://www.youtube.com/watch?v=Eo18qicy2lA",
+					"published": "2023-09-11T12:00:12.000Z",
+					"illustration": "https://i2.ytimg.com/vi/Eo18qicy2lA/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da91",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da73",
+			"articles": [
+				{
+					"_id": "653e34b2e5e19f5ac04fce5c",
+					"title": "Text Effects in Godot 4.1!",
+					"url": "https://www.youtube.com/watch?v=I-4LFHvLF10",
+					"published": "2023-10-18T14:30:05.000Z",
+					"illustration": "https://i2.ytimg.com/vi/I-4LFHvLF10/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce5f",
+					"title": "Suck Up Leaves! Godot Point and Click Full 2D Game Tutorial",
+					"url": "https://www.youtube.com/watch?v=yTkJv8tMO7g",
+					"published": "2023-10-15T13:06:43.000Z",
+					"illustration": "https://i2.ytimg.com/vi/yTkJv8tMO7g/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce62",
+					"title": "Godot 4.2 Update: Rotate Tiles, and Other Tilemap Changes!",
+					"url": "https://www.youtube.com/watch?v=LiD3GBTJtes",
+					"published": "2023-10-13T02:55:09.000Z",
+					"illustration": "https://i1.ytimg.com/vi/LiD3GBTJtes/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce65",
+					"title": "Creating Satisfying Animations With Godot",
+					"url": "https://www.youtube.com/watch?v=JnXoi9ZVNek",
+					"published": "2023-10-08T14:42:44.000Z",
+					"illustration": "https://i3.ytimg.com/vi/JnXoi9ZVNek/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce68",
+					"title": "10 More Godot Workflow Tips in 2 Minutes - Godot Game Engine",
+					"url": "https://www.youtube.com/watch?v=Te3K0fVW6lc",
+					"published": "2023-09-30T16:53:23.000Z",
+					"illustration": "https://i1.ytimg.com/vi/Te3K0fVW6lc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce6b",
+					"title": "Maze Generation Explained in 1 Minute with Godot!",
+					"url": "https://www.youtube.com/watch?v=TaQly10bDME",
+					"published": "2023-09-29T16:23:50.000Z",
+					"illustration": "https://i1.ytimg.com/vi/TaQly10bDME/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce6e",
+					"title": "Find Pairs in the Fewest Moves! - Godot Full Game Tutorial",
+					"url": "https://www.youtube.com/watch?v=94r4mvvccsg",
+					"published": "2023-09-23T21:55:47.000Z",
+					"illustration": "https://i2.ytimg.com/vi/94r4mvvccsg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce71",
+					"title": "Game Windows Work Together in Godot 4.1!",
+					"url": "https://www.youtube.com/watch?v=D6YF-9ph2T4",
+					"published": "2023-09-23T15:52:10.000Z",
+					"illustration": "https://i1.ytimg.com/vi/D6YF-9ph2T4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce74",
+					"title": "Shape Manipulation in Godot 4! Godot 2D Tutorial",
+					"url": "https://www.youtube.com/watch?v=yDCsXtSZYUQ",
+					"published": "2023-09-17T19:58:30.000Z",
+					"illustration": "https://i2.ytimg.com/vi/yDCsXtSZYUQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce77",
+					"title": "Turn Videos into Games with Godot 4!",
+					"url": "https://www.youtube.com/watch?v=LAWKPYtOwUY",
+					"published": "2023-09-16T19:01:01.000Z",
+					"illustration": "https://i1.ytimg.com/vi/LAWKPYtOwUY/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce7a",
+					"title": "Unity Shredding Simulator #unity #godot  #godotengine #coding #unity3d",
+					"url": "https://www.youtube.com/watch?v=gZ5H11TjBXs",
+					"published": "2023-09-14T11:00:27.000Z",
+					"illustration": "https://i4.ytimg.com/vi/gZ5H11TjBXs/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce7d",
+					"title": "Create an IQ Puzzle! Godot Full 3D Game Tutorial",
+					"url": "https://www.youtube.com/watch?v=dTygltE7yJg",
+					"published": "2023-09-11T23:29:05.000Z",
+					"illustration": "https://i1.ytimg.com/vi/dTygltE7yJg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce80",
+					"title": "10 Godot Shaders in 1 Minute (Code Linked) | Godot Engine 4.1",
+					"url": "https://www.youtube.com/watch?v=mRVnM9p86Oc",
+					"published": "2023-09-08T14:00:38.000Z",
+					"illustration": "https://i2.ytimg.com/vi/mRVnM9p86Oc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce83",
+					"title": "10 Godot Workflow Tips in 2 Minutes - Godot Game Engine",
+					"url": "https://www.youtube.com/watch?v=05v0kK7qbEs",
+					"published": "2023-08-22T10:00:01.000Z",
+					"illustration": "https://i1.ytimg.com/vi/05v0kK7qbEs/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce86",
+					"title": "How NOT to Take Feedback on Your Game #indiegame #gamedevelopment #comedy",
+					"url": "https://www.youtube.com/watch?v=hrDBJ4qMXos",
+					"published": "2023-08-15T10:00:36.000Z",
+					"illustration": "https://i1.ytimg.com/vi/hrDBJ4qMXos/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				},
+				{
+					"_id": "653e989b7112c169472d85bc",
+					"title": "Spooky Godot Shaders!",
+					"url": "https://www.youtube.com/watch?v=iCOGGJyKzLk",
+					"published": "2023-10-29T16:45:20.000Z",
+					"illustration": "https://i2.ytimg.com/vi/iCOGGJyKzLk/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da73",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da7d",
+			"articles": [
+				{
+					"_id": "653e34b2e5e19f5ac04fceb6",
+					"title": "Jagged Alliance 3 Part 2- Is Good Writing Even Possible in these Strange Times",
+					"url": "https://www.youtube.com/watch?v=JaCFYEOoRX4",
+					"published": "2023-10-23T21:10:09.000Z",
+					"illustration": "https://i3.ytimg.com/vi/JaCFYEOoRX4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fceb9",
+					"title": "Jagged Alliance 3 Part 1- Its a Product of Its Time.",
+					"url": "https://www.youtube.com/watch?v=gtIyUCJ63j4",
+					"published": "2023-10-20T19:12:15.000Z",
+					"illustration": "https://i4.ytimg.com/vi/gtIyUCJ63j4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcebc",
+					"title": "How to Buy a Video Game in these Strange and Troubling Times",
+					"url": "https://www.youtube.com/watch?v=OrpxyT6fyUo",
+					"published": "2023-08-02T20:33:29.000Z",
+					"illustration": "https://i4.ytimg.com/vi/OrpxyT6fyUo/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcebf",
+					"title": "Redfall: Failure Has A New Name",
+					"url": "https://www.youtube.com/watch?v=uiBlb2i0sKo",
+					"published": "2023-06-24T19:54:30.000Z",
+					"illustration": "https://i2.ytimg.com/vi/uiBlb2i0sKo/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcec2",
+					"title": "The Legacy of Hogwarts Legacy Part 2",
+					"url": "https://www.youtube.com/watch?v=yOcJPUzOsm4",
+					"published": "2023-06-10T19:42:21.000Z",
+					"illustration": "https://i2.ytimg.com/vi/yOcJPUzOsm4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcec5",
+					"title": "The Legacy of Hogwarts Legacy Part 1",
+					"url": "https://www.youtube.com/watch?v=vB3opwCSUVU",
+					"published": "2023-05-06T19:09:38.000Z",
+					"illustration": "https://i3.ytimg.com/vi/vB3opwCSUVU/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcec8",
+					"title": "I Stand With Forspoken",
+					"url": "https://www.youtube.com/watch?v=MfhkaVkNsI8",
+					"published": "2023-03-21T19:45:39.000Z",
+					"illustration": "https://i2.ytimg.com/vi/MfhkaVkNsI8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcecb",
+					"title": "21Kilotons Video Game Awards | Worst Video Games of 2022",
+					"url": "https://www.youtube.com/watch?v=oZ8f19wcqzw",
+					"published": "2023-02-24T20:26:20.000Z",
+					"illustration": "https://i4.ytimg.com/vi/oZ8f19wcqzw/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcece",
+					"title": "21Kilotons Video Game Awards | Best Games of 2022",
+					"url": "https://www.youtube.com/watch?v=ZKwTwFtHRtc",
+					"published": "2023-02-20T20:54:40.000Z",
+					"illustration": "https://i3.ytimg.com/vi/ZKwTwFtHRtc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fced1",
+					"title": "Why Do Entertainment Companies Get Woke and Go Broke?",
+					"url": "https://www.youtube.com/watch?v=Aks1Ahe9ZEw",
+					"published": "2023-01-05T21:10:37.000Z",
+					"illustration": "https://i2.ytimg.com/vi/Aks1Ahe9ZEw/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fced4",
+					"title": "21kilotons Christmas Message 2022",
+					"url": "https://www.youtube.com/watch?v=vqFzMpOzF8s",
+					"published": "2022-12-25T23:44:46.000Z",
+					"illustration": "https://i3.ytimg.com/vi/vqFzMpOzF8s/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fced7",
+					"title": "Modern Warfare II Review Part 2 | A Game With No Point",
+					"url": "https://www.youtube.com/watch?v=JvSbbqVq6Ns",
+					"published": "2022-12-19T19:57:15.000Z",
+					"illustration": "https://i3.ytimg.com/vi/JvSbbqVq6Ns/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fceda",
+					"title": "Modern Warfare II Review Part 1 | Low Effort Done Right!",
+					"url": "https://www.youtube.com/watch?v=qccNkhbJYaE",
+					"published": "2022-12-11T20:32:24.000Z",
+					"illustration": "https://i2.ytimg.com/vi/qccNkhbJYaE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcedd",
+					"title": "The Overwatch 2 Mobile Phone Scandal is Far Worse Than You Think",
+					"url": "https://www.youtube.com/watch?v=nfb8vYLjK6k",
+					"published": "2022-10-30T20:22:41.000Z",
+					"illustration": "https://i3.ytimg.com/vi/nfb8vYLjK6k/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcee0",
+					"title": "Ubisoft Forward 2022 A Company in Terminal Decline",
+					"url": "https://www.youtube.com/watch?v=-8K6Dq3da-U",
+					"published": "2022-10-03T19:37:48.000Z",
+					"illustration": "https://i2.ytimg.com/vi/-8K6Dq3da-U/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7d",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da7f",
+			"articles": [
+				{
+					"_id": "653e34b3e5e19f5ac04fcf10",
+					"title": "Ghost Master Review",
+					"url": "https://www.youtube.com/watch?v=_3A_VGAPPC0",
+					"published": "2023-10-13T13:00:28.000Z",
+					"illustration": "https://i4.ytimg.com/vi/_3A_VGAPPC0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf13",
+					"title": "STASIS: BONE TOTEM Review",
+					"url": "https://www.youtube.com/watch?v=l1dyox71Y7o",
+					"published": "2023-09-15T13:11:08.000Z",
+					"illustration": "https://i1.ytimg.com/vi/l1dyox71Y7o/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf16",
+					"title": "STASIS Review",
+					"url": "https://www.youtube.com/watch?v=B17yJUXboe0",
+					"published": "2023-09-01T13:16:02.000Z",
+					"illustration": "https://i3.ytimg.com/vi/B17yJUXboe0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf19",
+					"title": "Legion: The Legend of Excalibur Review",
+					"url": "https://www.youtube.com/watch?v=MDlIpRBTX9U",
+					"published": "2023-08-18T13:15:03.000Z",
+					"illustration": "https://i2.ytimg.com/vi/MDlIpRBTX9U/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf1c",
+					"title": "Myth 2: Soulblighter Review",
+					"url": "https://www.youtube.com/watch?v=-ZCsZM6OjYI",
+					"published": "2023-07-29T19:39:30.000Z",
+					"illustration": "https://i2.ytimg.com/vi/-ZCsZM6OjYI/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf1f",
+					"title": "Myth: The Fallen Lords Review",
+					"url": "https://www.youtube.com/watch?v=NDgXXEQpFBQ",
+					"published": "2023-07-07T11:00:26.000Z",
+					"illustration": "https://i3.ytimg.com/vi/NDgXXEQpFBQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf22",
+					"title": "Aliens: Dark Descent Review",
+					"url": "https://www.youtube.com/watch?v=ndt4ypHZbs4",
+					"published": "2023-06-19T18:20:18.000Z",
+					"illustration": "https://i3.ytimg.com/vi/ndt4ypHZbs4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf25",
+					"title": "Northern Journey Review",
+					"url": "https://www.youtube.com/watch?v=jH5HsoAVEk8",
+					"published": "2023-06-08T12:00:37.000Z",
+					"illustration": "https://i3.ytimg.com/vi/jH5HsoAVEk8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf28",
+					"title": "Weird West Review",
+					"url": "https://www.youtube.com/watch?v=SUaJedvN6Z8",
+					"published": "2023-05-26T12:00:17.000Z",
+					"illustration": "https://i4.ytimg.com/vi/SUaJedvN6Z8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf2b",
+					"title": "Pathfinder: Wrath of the Righteous Review",
+					"url": "https://www.youtube.com/watch?v=bqzh4G9baik",
+					"published": "2023-04-28T13:00:34.000Z",
+					"illustration": "https://i3.ytimg.com/vi/bqzh4G9baik/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf2e",
+					"title": "Genesis Rising: The Universal Crusade Review",
+					"url": "https://www.youtube.com/watch?v=fa1x1p81CjE",
+					"published": "2023-03-31T12:00:24.000Z",
+					"illustration": "https://i3.ytimg.com/vi/fa1x1p81CjE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf31",
+					"title": "The Callisto Protocol Review",
+					"url": "https://www.youtube.com/watch?v=yK3ePkE1Sx0",
+					"published": "2023-03-03T14:30:15.000Z",
+					"illustration": "https://i2.ytimg.com/vi/yK3ePkE1Sx0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf34",
+					"title": "Dead Space Remake Review",
+					"url": "https://www.youtube.com/watch?v=FY9bTqZQErM",
+					"published": "2023-02-17T15:47:45.000Z",
+					"illustration": "https://i3.ytimg.com/vi/FY9bTqZQErM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf37",
+					"title": "Homeworld: Deserts of Kharak Review",
+					"url": "https://www.youtube.com/watch?v=jy555tQIwag",
+					"published": "2022-12-16T13:53:55.000Z",
+					"illustration": "https://i3.ytimg.com/vi/jy555tQIwag/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf3a",
+					"title": "Alien: Isolation Review",
+					"url": "https://www.youtube.com/watch?v=NyIA-SRJGco",
+					"published": "2022-11-25T14:00:14.000Z",
+					"illustration": "https://i3.ytimg.com/vi/NyIA-SRJGco/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7f",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da72",
+			"articles": [
+				{
+					"_id": "653e34b2e5e19f5ac04fce50",
+					"title": "Godot Components - how to structure a game into manageable parts (Beginner/Intermediate)",
+					"url": "https://www.youtube.com/watch?v=W8gYHTjDCic",
+					"published": "2023-10-03T21:11:40.000Z",
+					"illustration": "https://i4.ytimg.com/vi/W8gYHTjDCic/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da72",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce53",
+					"title": "Godot UI Basics - how to build beautiful interfaces that work everywhere (Beginners)",
+					"url": "https://www.youtube.com/watch?v=1_OFJLyqlXI",
+					"published": "2023-09-01T22:24:10.000Z",
+					"illustration": "https://i2.ytimg.com/vi/1_OFJLyqlXI/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da72",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce56",
+					"title": "Node paths - find any node in your Godot scene (Beginners)",
+					"url": "https://www.youtube.com/watch?v=KzvkrpA5Y3M",
+					"published": "2023-08-24T05:39:03.000Z",
+					"illustration": "https://i4.ytimg.com/vi/KzvkrpA5Y3M/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da72",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce59",
+					"title": "State machines and state charts in Godot",
+					"url": "https://www.youtube.com/watch?v=E9h9VnbPGuw",
+					"published": "2023-08-21T07:40:05.000Z",
+					"illustration": "https://i2.ytimg.com/vi/E9h9VnbPGuw/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da72",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da6e",
+			"articles": [
+				{
+					"_id": "653e34b1e5e19f5ac04fcdcc",
+					"title": "I HATED My Game, So I Remade It | Nightmare Game Devlog 1",
+					"url": "https://www.youtube.com/watch?v=I0JXFHc7tco",
+					"published": "2022-10-21T14:00:07.000Z",
+					"illustration": "https://i2.ytimg.com/vi/I0JXFHc7tco/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdcf",
+					"title": "Making Cutscenes is So Easy With My New Custom Plugin! | Devlog",
+					"url": "https://www.youtube.com/watch?v=DLBJpapM9xs",
+					"published": "2021-11-20T13:57:10.000Z",
+					"illustration": "https://i1.ytimg.com/vi/DLBJpapM9xs/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdd2",
+					"title": "Simple Enemies are MORE Fun! Tips For Creating Enemies | Devlog",
+					"url": "https://www.youtube.com/watch?v=4ryNGS3kKHw",
+					"published": "2021-11-06T13:32:15.000Z",
+					"illustration": "https://i1.ytimg.com/vi/4ryNGS3kKHw/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdd5",
+					"title": "New Skills Don't Need to be Boring! | Devlog",
+					"url": "https://www.youtube.com/watch?v=FTV0Dy9HA9E",
+					"published": "2021-10-20T16:00:29.000Z",
+					"illustration": "https://i3.ytimg.com/vi/FTV0Dy9HA9E/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdd8",
+					"title": "I Overscoped a Game Jam, but it Worked! | Ludum Dare 49 Devlog",
+					"url": "https://www.youtube.com/watch?v=oL_8noqufAY",
+					"published": "2021-10-06T17:24:06.000Z",
+					"illustration": "https://i4.ytimg.com/vi/oL_8noqufAY/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcddb",
+					"title": "Starting a New Game with a Cute Sun God | Devlog 1",
+					"url": "https://www.youtube.com/watch?v=vNLuhRdVDSw",
+					"published": "2021-09-03T17:00:03.000Z",
+					"illustration": "https://i3.ytimg.com/vi/vNLuhRdVDSw/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdde",
+					"title": "I Made Enemies Fight Each Other.. It was AMAZING! | Devlog RPG",
+					"url": "https://www.youtube.com/watch?v=RCc78olN0hs",
+					"published": "2021-04-15T14:46:52.000Z",
+					"illustration": "https://i3.ytimg.com/vi/RCc78olN0hs/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcde1",
+					"title": "Zoe and the Cursed Dreamer | Kickstarter Trailer",
+					"url": "https://www.youtube.com/watch?v=yIJrfvTv8XI",
+					"published": "2021-04-03T18:31:58.000Z",
+					"illustration": "https://i2.ytimg.com/vi/yIJrfvTv8XI/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcde4",
+					"title": "The Trick I Used to Make Combat Fun! | Devlog",
+					"url": "https://www.youtube.com/watch?v=6BrZryMz-ac",
+					"published": "2020-12-10T14:45:01.000Z",
+					"illustration": "https://i3.ytimg.com/vi/6BrZryMz-ac/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcde7",
+					"title": "Using Procedural Generation to Build Levels by Hand | Devlog #11",
+					"url": "https://www.youtube.com/watch?v=AAAmQKgHsDg",
+					"published": "2020-11-15T14:45:44.000Z",
+					"illustration": "https://i2.ytimg.com/vi/AAAmQKgHsDg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdea",
+					"title": "Improving Enemy Teamwork in Our Action RPG! | Devlog #10",
+					"url": "https://www.youtube.com/watch?v=W_tmkuB-uZI",
+					"published": "2020-10-20T15:33:35.000Z",
+					"illustration": "https://i4.ytimg.com/vi/W_tmkuB-uZI/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcded",
+					"title": "Creating an In-Game Level Editor | Indie Devlog #9",
+					"url": "https://www.youtube.com/watch?v=nAXMHOWliAA",
+					"published": "2020-10-10T14:41:28.000Z",
+					"illustration": "https://i3.ytimg.com/vi/nAXMHOWliAA/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdf0",
+					"title": "I Created My Own Lighting System | Devlog #8",
+					"url": "https://www.youtube.com/watch?v=XaJ58TxKTTc",
+					"published": "2020-09-26T14:30:02.000Z",
+					"illustration": "https://i1.ytimg.com/vi/XaJ58TxKTTc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdf3",
+					"title": "Build Your Base in an RPG? | Indie Game Devlog #7",
+					"url": "https://www.youtube.com/watch?v=DFOewMlRJu4",
+					"published": "2020-09-19T14:30:02.000Z",
+					"illustration": "https://i1.ytimg.com/vi/DFOewMlRJu4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b1e5e19f5ac04fcdf6",
+					"title": "Leveling Up Our Player - Devlog #6",
+					"url": "https://www.youtube.com/watch?v=Qx4nZJ5UPUQ",
+					"published": "2020-09-12T16:49:12.000Z",
+					"illustration": "https://i2.ytimg.com/vi/Qx4nZJ5UPUQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6e",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da7c",
+			"articles": [
+				{
+					"_id": "653e34b2e5e19f5ac04fce89",
+					"title": "Remember When Super Hero Games Were Good?",
+					"url": "https://www.youtube.com/watch?v=oUQW5fGWU9A",
+					"published": "2023-10-25T18:47:45.000Z",
+					"illustration": "https://i4.ytimg.com/vi/oUQW5fGWU9A/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce8c",
+					"title": "Assassin's Creed Mirage is Mid",
+					"url": "https://www.youtube.com/watch?v=EX8kHXWIEdQ",
+					"published": "2023-10-11T21:47:04.000Z",
+					"illustration": "https://i2.ytimg.com/vi/EX8kHXWIEdQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce8f",
+					"title": "Starfield is Creatively Bankrupt",
+					"url": "https://www.youtube.com/watch?v=dRDi6XHfcJ8",
+					"published": "2023-09-13T18:58:45.000Z",
+					"illustration": "https://i1.ytimg.com/vi/dRDi6XHfcJ8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce92",
+					"title": "Armored Core 6/10",
+					"url": "https://www.youtube.com/watch?v=hoSZaqj1Wzo",
+					"published": "2023-08-30T21:49:53.000Z",
+					"illustration": "https://i1.ytimg.com/vi/hoSZaqj1Wzo/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce95",
+					"title": "Immersion is DEAD",
+					"url": "https://www.youtube.com/watch?v=qz22OSE27Fg",
+					"published": "2023-08-25T00:23:34.000Z",
+					"illustration": "https://i2.ytimg.com/vi/qz22OSE27Fg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce98",
+					"title": "Baldur's Gate 3 is Excellent and Terrible",
+					"url": "https://www.youtube.com/watch?v=fkKHAa9FiZ0",
+					"published": "2023-08-17T18:00:28.000Z",
+					"illustration": "https://i3.ytimg.com/vi/fkKHAa9FiZ0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce9b",
+					"title": "Barbie is the Most Delusional, Hateful, Woke Film I've Ever Seen",
+					"url": "https://www.youtube.com/watch?v=oSN5X0tXBIk",
+					"published": "2023-07-25T21:19:14.000Z",
+					"illustration": "https://i4.ytimg.com/vi/oSN5X0tXBIk/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce9e",
+					"title": "Darksiders II - 11 Years Later",
+					"url": "https://www.youtube.com/watch?v=ZbNqwyKfFdk",
+					"published": "2023-07-14T23:07:14.000Z",
+					"illustration": "https://i3.ytimg.com/vi/ZbNqwyKfFdk/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcea1",
+					"title": "The True Sequel to F.E.A.R.",
+					"url": "https://www.youtube.com/watch?v=t0jGVOlaydI",
+					"published": "2023-07-03T17:00:35.000Z",
+					"illustration": "https://i1.ytimg.com/vi/t0jGVOlaydI/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcea4",
+					"title": "Final Fantasy 16 Will Put You to Sleep",
+					"url": "https://www.youtube.com/watch?v=ocN-HPG0_zg",
+					"published": "2023-06-28T19:44:30.000Z",
+					"illustration": "https://i4.ytimg.com/vi/ocN-HPG0_zg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcea7",
+					"title": "That Was The WORST Gaming Showcase of all Time",
+					"url": "https://www.youtube.com/watch?v=TVGJIayCmlE",
+					"published": "2023-06-15T19:30:31.000Z",
+					"illustration": "https://i1.ytimg.com/vi/TVGJIayCmlE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fceaa",
+					"title": "Twitter Doesn't Like My Zelda Video...",
+					"url": "https://www.youtube.com/watch?v=tSaloPojGn0",
+					"published": "2023-06-03T18:47:36.000Z",
+					"illustration": "https://i1.ytimg.com/vi/tSaloPojGn0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcead",
+					"title": "Tears of the Kingdom is Not a Masterpiece",
+					"url": "https://www.youtube.com/watch?v=Kln6-U2Eh_M",
+					"published": "2023-05-30T20:39:06.000Z",
+					"illustration": "https://i4.ytimg.com/vi/Kln6-U2Eh_M/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fceb0",
+					"title": "The Playstation Showcase Was Terrible",
+					"url": "https://www.youtube.com/watch?v=ace3NCD7nkM",
+					"published": "2023-05-26T00:13:41.000Z",
+					"illustration": "https://i2.ytimg.com/vi/ace3NCD7nkM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fceb3",
+					"title": "An Actual Review of Star Wars Jedi Survivor",
+					"url": "https://www.youtube.com/watch?v=ommjLTg7nXs",
+					"published": "2023-05-04T18:19:21.000Z",
+					"illustration": "https://i4.ytimg.com/vi/ommjLTg7nXs/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7c",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da7e",
+			"articles": [
+				{
+					"_id": "653e34b2e5e19f5ac04fcee3",
+					"title": "Is Warhammer 40K: Darktide FINALLY Worth Playing?!",
+					"url": "https://www.youtube.com/watch?v=WowmzHIKCYA",
+					"published": "2023-10-14T01:46:03.000Z",
+					"illustration": "https://i4.ytimg.com/vi/WowmzHIKCYA/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcee6",
+					"title": "Quantum TV: A Narcissists Road to Arrest - ReAct Man",
+					"url": "https://www.youtube.com/watch?v=vyf_YmqJOJ4",
+					"published": "2023-10-08T18:30:55.000Z",
+					"illustration": "https://i3.ytimg.com/vi/vyf_YmqJOJ4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcee9",
+					"title": "Has Halo Infinite Recovered?!",
+					"url": "https://www.youtube.com/watch?v=RONApYbCjXM",
+					"published": "2023-09-30T19:57:05.000Z",
+					"illustration": "https://i3.ytimg.com/vi/RONApYbCjXM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fceec",
+					"title": "Payday 3 Is A Certified BANGER",
+					"url": "https://www.youtube.com/watch?v=3olv16IBAAs",
+					"published": "2023-09-19T18:16:26.000Z",
+					"illustration": "https://i4.ytimg.com/vi/3olv16IBAAs/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fceef",
+					"title": "The WORST Starfield Hot Takes",
+					"url": "https://www.youtube.com/watch?v=gzvXt4CkBu0",
+					"published": "2023-09-13T22:19:49.000Z",
+					"illustration": "https://i4.ytimg.com/vi/gzvXt4CkBu0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcef2",
+					"title": "Why Star Wars Battlefront 3 Will NEVER Be Released...",
+					"url": "https://www.youtube.com/watch?v=fBle1kjMU6g",
+					"published": "2023-09-06T22:12:21.000Z",
+					"illustration": "https://i3.ytimg.com/vi/fBle1kjMU6g/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcef5",
+					"title": "The Dark Side of Reaction Content",
+					"url": "https://www.youtube.com/watch?v=iI6ECK4xvag",
+					"published": "2023-08-26T00:33:17.000Z",
+					"illustration": "https://i2.ytimg.com/vi/iI6ECK4xvag/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcef8",
+					"title": "Baldur’s Gate 3 is WAY Too Good Apparently...",
+					"url": "https://www.youtube.com/watch?v=wLhiejYdo0U",
+					"published": "2023-08-19T23:46:29.000Z",
+					"illustration": "https://i4.ytimg.com/vi/wLhiejYdo0U/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcefb",
+					"title": "Diablo 4 Somehow Got WORSE... And So Did Blizzard",
+					"url": "https://www.youtube.com/watch?v=eG_SllpH9bA",
+					"published": "2023-08-12T23:45:13.000Z",
+					"illustration": "https://i2.ytimg.com/vi/eG_SllpH9bA/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcefe",
+					"title": "Revisiting The &quot;BEST&quot; Call of Duty - Black Ops 2",
+					"url": "https://www.youtube.com/watch?v=TQpmNDs6bnE",
+					"published": "2023-08-01T00:04:07.000Z",
+					"illustration": "https://i1.ytimg.com/vi/TQpmNDs6bnE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcf01",
+					"title": "Diablo Fanboys Try to Defend Diablo 4",
+					"url": "https://www.youtube.com/watch?v=QRnpCl7qiZ0",
+					"published": "2023-07-18T01:39:02.000Z",
+					"illustration": "https://i2.ytimg.com/vi/QRnpCl7qiZ0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcf04",
+					"title": "Why Is Diablo 4 SO BAD?!",
+					"url": "https://www.youtube.com/watch?v=ihZe-ABUhsc",
+					"published": "2023-07-13T02:17:23.000Z",
+					"illustration": "https://i2.ytimg.com/vi/ihZe-ABUhsc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcf07",
+					"title": "Copyright Abuse on YouTube - Featuring iShowspeed",
+					"url": "https://www.youtube.com/watch?v=CiG1OjTapto",
+					"published": "2023-07-01T21:09:17.000Z",
+					"illustration": "https://i4.ytimg.com/vi/CiG1OjTapto/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcf0a",
+					"title": "Activision Hates Call of Duty",
+					"url": "https://www.youtube.com/watch?v=0SyaqwRJ0HI",
+					"published": "2023-06-18T18:37:58.000Z",
+					"illustration": "https://i1.ytimg.com/vi/0SyaqwRJ0HI/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcf0d",
+					"title": "Why Is Redfall SO BAD?! (Ft. Zanny)",
+					"url": "https://www.youtube.com/watch?v=jOEJAuX8XE8",
+					"published": "2023-06-02T18:27:31.000Z",
+					"illustration": "https://i3.ytimg.com/vi/jOEJAuX8XE8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da7e",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da8f",
+			"articles": [
+				{
+					"_id": "653e34b4e5e19f5ac04fd078",
+					"title": "Understand the .NET Support Lifecycle",
+					"url": "https://www.youtube.com/watch?v=A0HlpRvSRpU",
+					"published": "2023-10-10T07:59:13.000Z",
+					"illustration": "https://i2.ytimg.com/vi/A0HlpRvSRpU/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd07b",
+					"title": "Do This at the end of Any C Sharp .NET Project! #csharp #dotnet #softwaredevelopment #programming",
+					"url": "https://www.youtube.com/watch?v=Mch0jmmnYx0",
+					"published": "2023-09-22T13:43:15.000Z",
+					"illustration": "https://i2.ytimg.com/vi/Mch0jmmnYx0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd07e",
+					"title": "Introduction to DateTime in C#: Master the Basics!",
+					"url": "https://www.youtube.com/watch?v=aokzk5G80Aw",
+					"published": "2023-09-21T13:42:52.000Z",
+					"illustration": "https://i2.ytimg.com/vi/aokzk5G80Aw/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd081",
+					"title": "Supercharge Your C# Code: Integrating Python using Python.NET",
+					"url": "https://www.youtube.com/watch?v=1sOTTXlIhZo",
+					"published": "2023-08-20T19:15:33.000Z",
+					"illustration": "https://i2.ytimg.com/vi/1sOTTXlIhZo/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd084",
+					"title": "From Novice to Expert: Harnessing the Power of Raw SQL Queries in Entity Framework with C#",
+					"url": "https://www.youtube.com/watch?v=HVuylC-XMDM",
+					"published": "2023-08-03T07:16:21.000Z",
+					"illustration": "https://i1.ytimg.com/vi/HVuylC-XMDM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd087",
+					"title": "Master Azure Magic: Deploy Blazor to Cloud in Minutes! 🔥🚀",
+					"url": "https://www.youtube.com/watch?v=N0nHktwoclg",
+					"published": "2023-07-22T22:58:12.000Z",
+					"illustration": "https://i3.ytimg.com/vi/N0nHktwoclg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd08a",
+					"title": "Blazor Server vs Blazor WebAssembly: Which is Right for You?",
+					"url": "https://www.youtube.com/watch?v=tYenOpXLSxo",
+					"published": "2023-07-14T13:56:53.000Z",
+					"illustration": "https://i1.ytimg.com/vi/tYenOpXLSxo/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd08d",
+					"title": "Null Checks in C# with Null Coalescing Operator",
+					"url": "https://www.youtube.com/watch?v=rVCdKgsojEc",
+					"published": "2023-07-02T20:22:36.000Z",
+					"illustration": "https://i3.ytimg.com/vi/rVCdKgsojEc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd090",
+					"title": "C# Ternary Operator - An Alternative to IF/ELSE Statements",
+					"url": "https://www.youtube.com/watch?v=guzqZ5TxPVk",
+					"published": "2023-07-02T13:52:23.000Z",
+					"illustration": "https://i4.ytimg.com/vi/guzqZ5TxPVk/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd093",
+					"title": "HTTP Get in C# is SUPER Easy! Call REST APIs Like a Pro.",
+					"url": "https://www.youtube.com/watch?v=FEObLap1iGE",
+					"published": "2023-07-02T10:49:03.000Z",
+					"illustration": "https://i3.ytimg.com/vi/FEObLap1iGE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd096",
+					"title": "Learning C#? You NEED To Learn Regular Expressions!",
+					"url": "https://www.youtube.com/watch?v=0lU_DG7s0qA",
+					"published": "2023-06-30T12:34:34.000Z",
+					"illustration": "https://i1.ytimg.com/vi/0lU_DG7s0qA/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd099",
+					"title": "How to Send a Ping to an IP or Hostname in C#",
+					"url": "https://www.youtube.com/watch?v=6c-EIJ3wDWg",
+					"published": "2023-06-28T06:56:10.000Z",
+					"illustration": "https://i3.ytimg.com/vi/6c-EIJ3wDWg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd09c",
+					"title": "Mastering TCPListener in C#: Building Network Applications from Scratch",
+					"url": "https://www.youtube.com/watch?v=TAGoid4u6PY",
+					"published": "2023-06-22T08:22:22.000Z",
+					"illustration": "https://i1.ytimg.com/vi/TAGoid4u6PY/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd09f",
+					"title": "Check Json String is Valid in C# with System.Text.Json",
+					"url": "https://www.youtube.com/watch?v=g3iSUkdcgc4",
+					"published": "2023-06-07T21:58:21.000Z",
+					"illustration": "https://i4.ytimg.com/vi/g3iSUkdcgc4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b4e5e19f5ac04fd0a2",
+					"title": "Make an Interactive Blazor App in Less than 20 MINUTES! Learn Routing and Navigation.",
+					"url": "https://www.youtube.com/watch?v=qwVO_cLkgd4",
+					"published": "2023-06-06T13:31:22.000Z",
+					"illustration": "https://i2.ytimg.com/vi/qwVO_cLkgd4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8f",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da6f",
+			"articles": [
+				{
+					"_id": "653e34b2e5e19f5ac04fcdf9",
+					"title": "4 Godot 4 Devs Make 4 Games in 44 Hours",
+					"url": "https://www.youtube.com/watch?v=8bhNXunrEaU",
+					"published": "2023-09-23T15:00:08.000Z",
+					"illustration": "https://i1.ytimg.com/vi/8bhNXunrEaU/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcdfc",
+					"title": "Godot 4 - RPG Inventory System From Scratch",
+					"url": "https://www.youtube.com/watch?v=V79YabQZC1s",
+					"published": "2023-03-13T19:00:19.000Z",
+					"illustration": "https://i3.ytimg.com/vi/V79YabQZC1s/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fcdff",
+					"title": "Godot 4 - Online Multiplayer FPS From Scratch",
+					"url": "https://www.youtube.com/watch?v=n8D3vEx7NAE",
+					"published": "2023-01-22T14:30:19.000Z",
+					"illustration": "https://i3.ytimg.com/vi/n8D3vEx7NAE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce02",
+					"title": "Godot 4 - Forest Night Environment From Scratch",
+					"url": "https://www.youtube.com/watch?v=x4xS3N2GF-Q",
+					"published": "2022-12-25T15:15:03.000Z",
+					"illustration": "https://i1.ytimg.com/vi/x4xS3N2GF-Q/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce05",
+					"title": "Godot 4 - Tiled Dungeon Environment From Scratch",
+					"url": "https://www.youtube.com/watch?v=VjuyfBaryu8",
+					"published": "2022-11-13T16:18:01.000Z",
+					"illustration": "https://i3.ytimg.com/vi/VjuyfBaryu8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce08",
+					"title": "Godot 4 / Blender - Third Person Character From Scratch",
+					"url": "https://www.youtube.com/watch?v=VasHZZyPpYU",
+					"published": "2022-10-23T15:30:06.000Z",
+					"illustration": "https://i3.ytimg.com/vi/VasHZZyPpYU/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce0b",
+					"title": "Godot 4 3D - AI Pathfinding/Navigation",
+					"url": "https://www.youtube.com/watch?v=-juhGgA076E",
+					"published": "2022-08-08T15:03:43.000Z",
+					"illustration": "https://i2.ytimg.com/vi/-juhGgA076E/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6f",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce0e",
+					"title": "Godot 4 3D - FPS Melee Attack",
+					"url": "https://www.youtube.com/watch?v=qMBJaVL-vKc",
+					"published": "2022-08-02T13:53:23.000Z",
+					"illustration": "https://i2.ytimg.com/vi/qMBJaVL-vKc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6f",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da8c",
+			"articles": [
+				{
+					"_id": "653e34b3e5e19f5ac04fcff1",
+					"title": "3 Tricks to make PS1 Characters in blender!",
+					"url": "https://www.youtube.com/watch?v=dzkGLBM11qc",
+					"published": "2023-10-15T13:00:27.000Z",
+					"illustration": "https://i1.ytimg.com/vi/dzkGLBM11qc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcff4",
+					"title": "EASY Workflow for making Beautiful Game characters in Blender",
+					"url": "https://www.youtube.com/watch?v=rrQfaM9-WOU",
+					"published": "2023-10-08T13:00:45.000Z",
+					"illustration": "https://i3.ytimg.com/vi/rrQfaM9-WOU/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcff7",
+					"title": "Full Guide to GAME READY Topology in Blender!",
+					"url": "https://www.youtube.com/watch?v=VwNUMIrFCEA",
+					"published": "2023-10-01T13:00:31.000Z",
+					"illustration": "https://i3.ytimg.com/vi/VwNUMIrFCEA/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcffa",
+					"title": "The Ultimate Low Poly Car Guide in Blender!",
+					"url": "https://www.youtube.com/watch?v=ub00akPm7kQ",
+					"published": "2023-06-23T14:00:43.000Z",
+					"illustration": "https://i2.ytimg.com/vi/ub00akPm7kQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcffd",
+					"title": "How to make a Low Poly Base mesh in Blender",
+					"url": "https://www.youtube.com/watch?v=dl7geQJgxI8",
+					"published": "2023-06-04T14:00:22.000Z",
+					"illustration": "https://i1.ytimg.com/vi/dl7geQJgxI8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd000",
+					"title": "How to make Low Poly Hair in Blender #blender #lowpoly #shorts",
+					"url": "https://www.youtube.com/watch?v=u8uZBovP8Ek",
+					"published": "2023-06-03T18:39:24.000Z",
+					"illustration": "https://i2.ytimg.com/vi/u8uZBovP8Ek/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd003",
+					"title": "3 Ways to Improve your Game Characters in blender",
+					"url": "https://www.youtube.com/watch?v=g4IEKSOt6uk",
+					"published": "2023-05-31T15:00:26.000Z",
+					"illustration": "https://i4.ytimg.com/vi/g4IEKSOt6uk/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd006",
+					"title": "How to Rig Game Characters in Blender",
+					"url": "https://www.youtube.com/watch?v=TVYXrriii6Y",
+					"published": "2023-05-14T14:00:14.000Z",
+					"illustration": "https://i1.ytimg.com/vi/TVYXrriii6Y/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd009",
+					"title": "The Ultimate Low Poly Hair Guide in Blender!",
+					"url": "https://www.youtube.com/watch?v=xbz1ZUC3ywc",
+					"published": "2023-04-30T14:00:39.000Z",
+					"illustration": "https://i1.ytimg.com/vi/xbz1ZUC3ywc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd00c",
+					"title": "Making a Low Poly Game Trailer in Blender! - Livestream",
+					"url": "https://www.youtube.com/watch?v=y2Ry8XyL7fo",
+					"published": "2023-04-25T02:07:55.000Z",
+					"illustration": "https://i2.ytimg.com/vi/y2Ry8XyL7fo/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd00f",
+					"title": "Making a Low Poly Animation in Blender! - Livestream",
+					"url": "https://www.youtube.com/watch?v=VTWjBjE05Gg",
+					"published": "2023-04-23T02:37:03.000Z",
+					"illustration": "https://i3.ytimg.com/vi/VTWjBjE05Gg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd012",
+					"title": "Easy Technique to Fix CLIPPING Issues in Blender",
+					"url": "https://www.youtube.com/watch?v=9WqFxptKZcQ",
+					"published": "2023-04-09T15:00:07.000Z",
+					"illustration": "https://i2.ytimg.com/vi/9WqFxptKZcQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd015",
+					"title": "Make a Rifle for FPS Games (in Blender!)",
+					"url": "https://www.youtube.com/watch?v=6oJ8zVlFbiQ",
+					"published": "2023-03-29T12:30:45.000Z",
+					"illustration": "https://i3.ytimg.com/vi/6oJ8zVlFbiQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd018",
+					"title": "How to Make a Glock in Blender!",
+					"url": "https://www.youtube.com/watch?v=DDZtQZ9CGTg",
+					"published": "2023-03-28T12:30:05.000Z",
+					"illustration": "https://i1.ytimg.com/vi/DDZtQZ9CGTg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd01b",
+					"title": "How to make Low Poly Characters (Full Guide)",
+					"url": "https://www.youtube.com/watch?v=aTTe_ap5v4Y",
+					"published": "2023-03-22T13:00:03.000Z",
+					"illustration": "https://i2.ytimg.com/vi/aTTe_ap5v4Y/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da8c",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da80",
+			"articles": [
+				{
+					"_id": "653e34b3e5e19f5ac04fcf3d",
+					"title": "Alan Wake 2 Is A Survival Horror Game",
+					"url": "https://www.youtube.com/watch?v=zHDNVGJA1SM",
+					"published": "2023-10-27T14:00:45.000Z",
+					"illustration": "https://i3.ytimg.com/vi/zHDNVGJA1SM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf40",
+					"title": "Metal Gear Solid Master Collection Is Underwhelming",
+					"url": "https://www.youtube.com/watch?v=3U0rmjGJgoQ",
+					"published": "2023-10-23T14:00:02.000Z",
+					"illustration": "https://i4.ytimg.com/vi/3U0rmjGJgoQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf43",
+					"title": "Reviewing The Best &quot;Adult&quot; Sports Games",
+					"url": "https://www.youtube.com/watch?v=aqFbdumJJeo",
+					"published": "2023-10-17T16:00:02.000Z",
+					"illustration": "https://i2.ytimg.com/vi/aqFbdumJJeo/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf46",
+					"title": "Assassins Creed Mirage Is One of the Games of all Time",
+					"url": "https://www.youtube.com/watch?v=mRwhziiJFtQ",
+					"published": "2023-10-04T11:22:52.000Z",
+					"illustration": "https://i2.ytimg.com/vi/mRwhziiJFtQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf49",
+					"title": "Ion Fury: Aftershock - 2019's Best Expansion Pack",
+					"url": "https://www.youtube.com/watch?v=lWUIlOvgz3U",
+					"published": "2023-10-01T16:00:38.000Z",
+					"illustration": "https://i1.ytimg.com/vi/lWUIlOvgz3U/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf4c",
+					"title": "Witchfire Early Access - Dark Souls Meets Doom Eternal",
+					"url": "https://www.youtube.com/watch?v=DMjipfmhAEM",
+					"published": "2023-09-28T17:30:01.000Z",
+					"illustration": "https://i1.ytimg.com/vi/DMjipfmhAEM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf4f",
+					"title": "Cyberpunk 2077: Phantom Liberty Is Pretty Rad",
+					"url": "https://www.youtube.com/watch?v=XTfaFry3tQQ",
+					"published": "2023-09-25T11:13:03.000Z",
+					"illustration": "https://i1.ytimg.com/vi/XTfaFry3tQQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf52",
+					"title": "The Grand Theft Auto Game Nobody Remembers",
+					"url": "https://www.youtube.com/watch?v=v9SRES5tvP4",
+					"published": "2023-09-20T17:30:07.000Z",
+					"illustration": "https://i3.ytimg.com/vi/v9SRES5tvP4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf55",
+					"title": "We Have Resident Evil At Home",
+					"url": "https://www.youtube.com/watch?v=XEuq-sqqc3o",
+					"published": "2023-09-09T17:30:03.000Z",
+					"illustration": "https://i1.ytimg.com/vi/XEuq-sqqc3o/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf58",
+					"title": "Starfield Is A Phenomenal Achievement",
+					"url": "https://www.youtube.com/watch?v=YVvHtVkRV8k",
+					"published": "2023-08-31T16:00:33.000Z",
+					"illustration": "https://i2.ytimg.com/vi/YVvHtVkRV8k/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf5b",
+					"title": "So I Played Every First Person Shooter on the PlayStation",
+					"url": "https://www.youtube.com/watch?v=DznijKnNQoU",
+					"published": "2023-08-22T17:00:11.000Z",
+					"illustration": "https://i1.ytimg.com/vi/DznijKnNQoU/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf5e",
+					"title": "Turbo Overkill Is Ridiculously Good",
+					"url": "https://www.youtube.com/watch?v=UH14Cg6dcEc",
+					"published": "2023-08-11T17:15:03.000Z",
+					"illustration": "https://i2.ytimg.com/vi/UH14Cg6dcEc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf61",
+					"title": "So They Finally Remastered Quake 2...",
+					"url": "https://www.youtube.com/watch?v=-dFrBjgsrq0",
+					"published": "2023-08-10T17:15:00.000Z",
+					"illustration": "https://i2.ytimg.com/vi/-dFrBjgsrq0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf64",
+					"title": "Rise of the Triad Ludicrously Ludicrous Edition",
+					"url": "https://www.youtube.com/watch?v=ekZoJalvT7w",
+					"published": "2023-07-31T17:00:33.000Z",
+					"illustration": "https://i2.ytimg.com/vi/ekZoJalvT7w/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf67",
+					"title": "My Friendly Neighborhood Is Really Good",
+					"url": "https://www.youtube.com/watch?v=7o_GUtz6rEM",
+					"published": "2023-07-18T19:00:03.000Z",
+					"illustration": "https://i4.ytimg.com/vi/7o_GUtz6rEM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da80",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da82",
+			"articles": [
+				{
+					"_id": "653e34b3e5e19f5ac04fcf97",
+					"title": "Leaking MILITARY Secrets... on a Gaming Forum - War Thunder",
+					"url": "https://www.youtube.com/watch?v=uEIn8iBmiu0",
+					"published": "2023-10-27T16:44:00.000Z",
+					"illustration": "https://i2.ytimg.com/vi/uEIn8iBmiu0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf9a",
+					"title": "The Age of Deception - A New Online Era",
+					"url": "https://www.youtube.com/watch?v=sYEk5vnwNwY",
+					"published": "2023-10-20T23:10:10.000Z",
+					"illustration": "https://i4.ytimg.com/vi/sYEk5vnwNwY/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcf9d",
+					"title": "The Tweet That Burned 100 Million Dollars - CoinTelegraph",
+					"url": "https://www.youtube.com/watch?v=7JxZs6iUT0I",
+					"published": "2023-10-16T21:36:04.000Z",
+					"illustration": "https://i4.ytimg.com/vi/7JxZs6iUT0I/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfa0",
+					"title": "The TikTok E-Girl Warfare Conspiracy... (theory)",
+					"url": "https://www.youtube.com/watch?v=a5QDNCwtODg",
+					"published": "2023-10-13T23:14:44.000Z",
+					"illustration": "https://i2.ytimg.com/vi/a5QDNCwtODg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfa3",
+					"title": "Guardio - First Line of Defense - Software Review",
+					"url": "https://www.youtube.com/watch?v=W-Ay53AUYbE",
+					"published": "2023-10-13T15:09:50.000Z",
+					"illustration": "https://i4.ytimg.com/vi/W-Ay53AUYbE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfa6",
+					"title": "Tether Finances Crime - The Elephant in the Room",
+					"url": "https://www.youtube.com/watch?v=UGXbZ5m1th8",
+					"published": "2023-10-12T19:22:07.000Z",
+					"illustration": "https://i2.ytimg.com/vi/UGXbZ5m1th8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfa9",
+					"title": "Disinformation Has a New Face",
+					"url": "https://www.youtube.com/watch?v=Wnl9RWOvRY4",
+					"published": "2023-10-10T21:19:41.000Z",
+					"illustration": "https://i4.ytimg.com/vi/Wnl9RWOvRY4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfac",
+					"title": "Sanitizing a Fraudster - &quot;SBF&quot; and Complicit Media",
+					"url": "https://www.youtube.com/watch?v=TBa7IC2LOtM",
+					"published": "2023-10-05T18:19:57.000Z",
+					"illustration": "https://i1.ytimg.com/vi/TBa7IC2LOtM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfaf",
+					"title": "Google CHANGES Your Searches - The Insane World of Advertising",
+					"url": "https://www.youtube.com/watch?v=wGmDYTWocI0",
+					"published": "2023-10-04T17:56:49.000Z",
+					"illustration": "https://i4.ytimg.com/vi/wGmDYTWocI0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfb2",
+					"title": "&quot;The Day Before&quot; - A Gaming Mystery",
+					"url": "https://www.youtube.com/watch?v=PLfxRu1dNeA",
+					"published": "2023-10-03T19:20:41.000Z",
+					"illustration": "https://i1.ytimg.com/vi/PLfxRu1dNeA/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfb5",
+					"title": "Industry of LIES - Mobile Game False Advertising",
+					"url": "https://www.youtube.com/watch?v=03I_a5cVoS0",
+					"published": "2023-10-02T18:12:37.000Z",
+					"illustration": "https://i1.ytimg.com/vi/03I_a5cVoS0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfb8",
+					"title": "The State of Surveillance",
+					"url": "https://www.youtube.com/watch?v=RodyGsYLak4",
+					"published": "2023-09-29T18:21:21.000Z",
+					"illustration": "https://i3.ytimg.com/vi/RodyGsYLak4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfbb",
+					"title": "Cyberpunk 2077 REDEEMED - Phantom Liberty and Update 2.0",
+					"url": "https://www.youtube.com/watch?v=wQrDOAQ_ZmQ",
+					"published": "2023-09-28T17:21:15.000Z",
+					"illustration": "https://i4.ytimg.com/vi/wQrDOAQ_ZmQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfbe",
+					"title": "The Meltdown of Cryptos Dumbest Influencer - BitBoy",
+					"url": "https://www.youtube.com/watch?v=Bf1G6o87KO0",
+					"published": "2023-09-26T20:37:01.000Z",
+					"illustration": "https://i3.ytimg.com/vi/Bf1G6o87KO0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fcfc1",
+					"title": "We Are The Capitol... America and the Hunger Games",
+					"url": "https://www.youtube.com/watch?v=3laNwcm7CYw",
+					"published": "2023-09-25T17:53:51.000Z",
+					"illustration": "https://i4.ytimg.com/vi/3laNwcm7CYw/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da82",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da70",
+			"articles": [
+				{
+					"_id": "653e34b2e5e19f5ac04fce11",
+					"title": "How to Make Magic Projectile Abilities ~ Platformer MEGA Tutorial for Godot 4.2",
+					"url": "https://www.youtube.com/watch?v=kLNFDCExGl4",
+					"published": "2023-10-27T04:09:05.000Z",
+					"illustration": "https://i4.ytimg.com/vi/kLNFDCExGl4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce14",
+					"title": "World Time Plugin Setup Guide for Godot 4 - Game Date &amp; Time of Day Events",
+					"url": "https://www.youtube.com/watch?v=2ij1lmQDcO4",
+					"published": "2023-10-25T12:16:07.000Z",
+					"illustration": "https://i3.ytimg.com/vi/2ij1lmQDcO4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce17",
+					"title": "Grid Builder Plugin for Godot 4 - Full Updated Setup Guide",
+					"url": "https://www.youtube.com/watch?v=OCPSL8i4xCQ",
+					"published": "2023-10-21T14:19:14.000Z",
+					"illustration": "https://i4.ytimg.com/vi/OCPSL8i4xCQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce1a",
+					"title": "Adding a Gravity Area for Easy Player Item Pickup Gathering ~ Godot 4 Tutorial",
+					"url": "https://www.youtube.com/watch?v=Sa4iuFYYW_Q",
+					"published": "2023-09-15T04:48:28.000Z",
+					"illustration": "https://i4.ytimg.com/vi/Sa4iuFYYW_Q/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce1d",
+					"title": "World Time &amp; Item Drops Plugins for 2D Godot 4 GameDev - Devlog #1",
+					"url": "https://www.youtube.com/watch?v=wkbXgUa1Tas",
+					"published": "2023-09-08T10:52:06.000Z",
+					"illustration": "https://i4.ytimg.com/vi/wkbXgUa1Tas/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce20",
+					"title": "Farming &amp; Crop Ageing Mechanics Tutorial for 2D Godot 4 Games",
+					"url": "https://www.youtube.com/watch?v=6B2K7mBU6Ew",
+					"published": "2023-08-22T06:47:13.000Z",
+					"illustration": "https://i3.ytimg.com/vi/6B2K7mBU6Ew/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce23",
+					"title": "Press-Drag to Build, Object Stacking, Rotate, and Flip Gameplay with Grid Builder Plugin in Godot 4",
+					"url": "https://www.youtube.com/watch?v=wwE07LgN93o",
+					"published": "2023-08-19T05:53:09.000Z",
+					"illustration": "https://i4.ytimg.com/vi/wwE07LgN93o/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce26",
+					"title": "Making a Platformer Sidescroller with In Game Object Placement with Grid Builder in Godot 4",
+					"url": "https://www.youtube.com/watch?v=_Wh4jcuvWN8",
+					"published": "2023-08-14T01:27:55.000Z",
+					"illustration": "https://i4.ytimg.com/vi/_Wh4jcuvWN8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce29",
+					"title": "Building Objects in Sidescrolling 2D Platformer Games ~ Grid Building for Godot 2.1 Update",
+					"url": "https://www.youtube.com/watch?v=fswLsxU_AA8",
+					"published": "2023-08-09T12:23:13.000Z",
+					"illustration": "https://i3.ytimg.com/vi/fswLsxU_AA8/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce2c",
+					"title": "How to Use Grid Builder for Godot 4 - Object Placement &amp; Grid Targeting Plugin",
+					"url": "https://www.youtube.com/watch?v=FoWFJMRqajU",
+					"published": "2023-08-02T04:04:18.000Z",
+					"illustration": "https://i3.ytimg.com/vi/FoWFJMRqajU/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce2f",
+					"title": "Grid Building for Godot 4 Plugin Overview - How to Place Objects into your Game Levels!",
+					"url": "https://www.youtube.com/watch?v=j05kIn26XoM",
+					"published": "2023-07-29T07:24:13.000Z",
+					"illustration": "https://i3.ytimg.com/vi/j05kIn26XoM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce32",
+					"title": "Defining How to Place Buildings with Rules in Godot 4 - Grid Building System Devlog #2",
+					"url": "https://www.youtube.com/watch?v=BzY8R7OlMsU",
+					"published": "2023-07-04T03:52:15.000Z",
+					"illustration": "https://i3.ytimg.com/vi/BzY8R7OlMsU/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce35",
+					"title": "Global Singleton SignalBus to Send Data Between Objects Anonymously ~ Godot 4.1 Example",
+					"url": "https://www.youtube.com/watch?v=z9rcWRLL_W4",
+					"published": "2023-07-02T06:20:57.000Z",
+					"illustration": "https://i3.ytimg.com/vi/z9rcWRLL_W4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce38",
+					"title": "Walk over Water Tiles &amp; Ignore Collisions while on a Bridge ~ Godot 4.1 Tutorial",
+					"url": "https://www.youtube.com/watch?v=6YT0UafdrOc",
+					"published": "2023-06-26T09:47:06.000Z",
+					"illustration": "https://i3.ytimg.com/vi/6YT0UafdrOc/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b2e5e19f5ac04fce3b",
+					"title": "Setup Guide for Platformer Crash Course Template Project for Unity 2D GameDev",
+					"url": "https://www.youtube.com/watch?v=RQAXbnzlLmE",
+					"published": "2023-06-16T09:31:41.000Z",
+					"illustration": "https://i3.ytimg.com/vi/RQAXbnzlLmE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da70",
+					"__v": 0
+				}
+			]
+		},
+		{
+			"_id": "653e257a34b768ebbdb6da6d",
+			"articles": [
+				{
+					"_id": "653e34b3e5e19f5ac04fd01e",
+					"title": "Unity wants 108% of your revenue!?",
+					"url": "https://www.youtube.com/watch?v=0JpEA6yiqp0",
+					"published": "2023-09-13T14:15:00.000Z",
+					"illustration": "https://i1.ytimg.com/vi/0JpEA6yiqp0/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd021",
+					"title": "CS2's Responsive Smoke with Godot 4 In 5 Minutes",
+					"url": "https://www.youtube.com/watch?v=zNbku2qrtDM",
+					"published": "2023-04-02T21:07:03.000Z",
+					"illustration": "https://i3.ytimg.com/vi/zNbku2qrtDM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd024",
+					"title": "NEW Procedural Animation In Godot 4.0",
+					"url": "https://www.youtube.com/watch?v=G_seJ2Yg1GA",
+					"published": "2023-03-19T00:19:42.000Z",
+					"illustration": "https://i4.ytimg.com/vi/G_seJ2Yg1GA/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd027",
+					"title": "Active Ragdoll / Physics Animations in Godot 4.0",
+					"url": "https://www.youtube.com/watch?v=0MHY2TDeMLM",
+					"published": "2023-03-05T01:53:57.000Z",
+					"illustration": "https://i1.ytimg.com/vi/0MHY2TDeMLM/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd02a",
+					"title": "How to make things float in Godot 4",
+					"url": "https://www.youtube.com/watch?v=_R2KDcAp1YQ",
+					"published": "2023-02-25T23:53:14.000Z",
+					"illustration": "https://i4.ytimg.com/vi/_R2KDcAp1YQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd02d",
+					"title": "Godot 4: Mesh Masks To See-through Other Objects",
+					"url": "https://www.youtube.com/watch?v=xif8S9LOxrE",
+					"published": "2023-02-11T22:05:31.000Z",
+					"illustration": "https://i1.ytimg.com/vi/xif8S9LOxrE/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd030",
+					"title": "Making the Leviathan Axe In less than 10 Minutes In Godot 4",
+					"url": "https://www.youtube.com/watch?v=6GIrjs-Qy0U",
+					"published": "2022-11-21T00:48:50.000Z",
+					"illustration": "https://i3.ytimg.com/vi/6GIrjs-Qy0U/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd033",
+					"title": "Path Based Mesh Generation in Godot 4",
+					"url": "https://www.youtube.com/watch?v=Gfpnxg-jne4",
+					"published": "2022-11-04T14:30:04.000Z",
+					"illustration": "https://i4.ytimg.com/vi/Gfpnxg-jne4/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd036",
+					"title": "3D Card Effect In Godot 4",
+					"url": "https://www.youtube.com/watch?v=3l5XIqCrIBQ",
+					"published": "2022-10-28T11:45:00.000Z",
+					"illustration": "https://i4.ytimg.com/vi/3l5XIqCrIBQ/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd039",
+					"title": "WATER SIMULATION in Godot 4",
+					"url": "https://www.youtube.com/watch?v=VSwVwIYEypY",
+					"published": "2022-10-23T01:37:27.000Z",
+					"illustration": "https://i3.ytimg.com/vi/VSwVwIYEypY/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd03c",
+					"title": "Godot 4 Makes Multiplayer EASY!",
+					"url": "https://www.youtube.com/watch?v=_ItA2r69c-Q",
+					"published": "2022-10-13T23:20:34.000Z",
+					"illustration": "https://i4.ytimg.com/vi/_ItA2r69c-Q/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd03f",
+					"title": "How to use Compute Shaders in Godot 4",
+					"url": "https://www.youtube.com/watch?v=5CKvGYqagyI",
+					"published": "2022-10-04T23:08:45.000Z",
+					"illustration": "https://i2.ytimg.com/vi/5CKvGYqagyI/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd042",
+					"title": "How to make SPLATOON In Godot 4",
+					"url": "https://www.youtube.com/watch?v=4DFpLnEnKFk",
+					"published": "2022-10-02T01:31:25.000Z",
+					"illustration": "https://i1.ytimg.com/vi/4DFpLnEnKFk/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd045",
+					"title": "Procedural Animation In Godot 4!",
+					"url": "https://www.youtube.com/watch?v=Ezo3YVKM8Xo",
+					"published": "2022-09-24T22:56:22.000Z",
+					"illustration": "https://i2.ytimg.com/vi/Ezo3YVKM8Xo/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				},
+				{
+					"_id": "653e34b3e5e19f5ac04fd048",
+					"title": "Godot 4: 3D Pixel Art",
+					"url": "https://www.youtube.com/watch?v=Mg_V27arKdg",
+					"published": "2022-09-18T23:32:36.000Z",
+					"illustration": "https://i2.ytimg.com/vi/Mg_V27arKdg/hqdefault.jpg",
+					"is_read": false,
+					"feed_id": "653e257a34b768ebbdb6da6d",
+					"__v": 0
+				}
+			]
+		}
+	]
+}
