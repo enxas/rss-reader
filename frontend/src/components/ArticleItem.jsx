@@ -1,16 +1,28 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 export default function ArticleItem({ item, callback }) {
-	const [isRead, setIsRead] = useState();
+	const [isRead, setIsRead] = useState(item.is_read);
 
-	useEffect(() => {
-		setIsRead(item.is_read);
-	}, [item.is_read]);
+	const handleDoubleClick = () => {
+		clearSelection();
+
+		window.open(item.url, "_blank");
+	};
+
+	function clearSelection() {
+		if (document.selection && document.selection.empty) {
+			document.selection.empty();
+		} else if (window.getSelection) {
+			var sel = window.getSelection();
+			sel.removeAllRanges();
+		}
+	}
 
 	const markArticleRead = async () => {
+		console.log("marked read");
 		try {
 			const response = await fetch(
-				`http://127.0.0.1:3500/mark_article_read/${item._id}`
+				`http://127.0.0.1:35000/mark_article_read/${item._id}`
 			);
 
 			if (!response.ok) {
@@ -27,8 +39,13 @@ export default function ArticleItem({ item, callback }) {
 	};
 
 	return (
-		<div onClick={markArticleRead} className={!isRead ? "bold" : ""}>
-			{item.title} - {item.published}
+		<div
+			onDoubleClick={handleDoubleClick}
+			onClick={!isRead ? markArticleRead : undefined}
+			className={`flex justify-between cursor-pointer ${!isRead && "bold"}`}
+		>
+			<span>{item.title}</span>
+			<span>{item.published.split("T", 1)[0]}</span>
 		</div>
 	);
 }

@@ -22,7 +22,7 @@ function App() {
 	useEffect(() => {
 		const getData = async () => {
 			try {
-				const response = await fetch(`http://127.0.0.1:3500/all`);
+				const response = await fetch(`http://127.0.0.1:35000/all`);
 
 				if (!response.ok) {
 					throw new Error(
@@ -31,7 +31,6 @@ function App() {
 				}
 
 				let actualData = await response.json();
-				// console.log(actualData);
 
 				setRssData(actualData);
 
@@ -60,7 +59,6 @@ function App() {
 	};
 
 	const categoryOptions = (categoryId) => {
-		console.log(categoryId);
 		setCategoryOptionData((prevData) => ({
 			...prevData,
 			categoryId,
@@ -76,15 +74,13 @@ function App() {
 
 	const mark_all_read = async () => {
 		try {
-			const response = await fetch(`http://127.0.0.1:3500/mark_all_read`);
+			const response = await fetch(`http://127.0.0.1:35000/mark_all_read`);
 
 			if (!response.ok) {
 				throw new Error(
 					`This is an HTTP error: The status is ${response.status}`
 				);
 			}
-
-			
 		} catch (err) {
 			console.log(err);
 		}
@@ -92,7 +88,7 @@ function App() {
 
 	const export_articles = async () => {
 		try {
-			const response = await fetch(`http://127.0.0.1:3500/export`);
+			const response = await fetch(`http://127.0.0.1:35000/export`);
 
 			if (!response.ok) {
 				throw new Error(
@@ -121,7 +117,7 @@ function App() {
 
 	const fetch_new_articles = async () => {
 		try {
-			const response = await fetch(`http://127.0.0.1:3500/fetch_new_articles`);
+			const response = await fetch(`http://127.0.0.1:35000/fetch_new_articles`);
 
 			if (!response.ok) {
 				throw new Error(
@@ -148,12 +144,14 @@ function App() {
 				)}
 
 				<SingleFileUploader />
+				<div>
+					<button onClick={fetch_new_articles}>Fetch new articles</button>
+					<button onClick={export_articles}>Export</button>
+					<button onClick={mark_all_read}>Mark All Read</button>
+				</div>
 
 				<div className="my-container">
 					<aside>
-						<button onClick={fetch_new_articles}>Fetch new articles</button>
-						<button onClick={export_articles}>Export</button>
-						<button onClick={mark_all_read}>Mark All Read</button>
 						<ul>
 							{rssData &&
 								rssData.categories[0].sub_categories.map((category) => {

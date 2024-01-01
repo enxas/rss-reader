@@ -19,7 +19,7 @@ const SingleFileUploader = () => {
       formData.append("file", file);
 
       try {
-        const result = await fetch("http://127.0.0.1:3500/import_opml_file", {
+        const result = await fetch("http://127.0.0.1:35000/import_opml_file", {
           method: "POST",
           body: formData,
 	

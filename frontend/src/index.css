@@ -6,3 +6,27 @@
 .bold {
   font-weight: bold;
 }
+
+.flex {
+	display: flex;
+}
+
+.justify-between {
+	justify-content: space-between;
+}
+
+.feed-item {
+	display: flex;
+    justify-content: space-between;
+}
+.hide {
+	display: none;
+}
+
+.cursor-pointer	{
+	cursor: pointer;
+}
+
+li {
+	cursor: pointer;
+}

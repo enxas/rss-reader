@@ -12,7 +12,7 @@ export default function CategoryOptions({ categoryId }) {
 		e.preventDefault();
 
 		try {
-			const response = await fetch("http://127.0.0.1:3500/create_feed", {
+			const response = await fetch("http://127.0.0.1:35000/create_feed", {
 				method: "POST",
 				body: JSON.stringify({
 					name: feedName,
@@ -46,7 +46,7 @@ export default function CategoryOptions({ categoryId }) {
 		e.preventDefault();
 
 		try {
-			const response = await fetch("http://127.0.0.1:3500/create_category", {
+			const response = await fetch("http://127.0.0.1:35000/create_category", {
 				method: "POST",
 				body: JSON.stringify({
 					name: categoryName,

@@ -19,7 +19,7 @@ const upload = multer({ dest: "uploads/" });
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const app = express();
-const PORT = process.env.PORT || 3500;
+const PORT = process.env.PORT || 35000;
 
 // Connect to MongoDB
 connectDB();
